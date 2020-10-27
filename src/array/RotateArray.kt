@@ -1,7 +1,8 @@
 package array
 
 fun main() {
-    rotate(intArrayOf(1,2), 3)
+    rotate(intArrayOf(1, 2, 3, 4, 5, 6, 7), 3)
+    rotate(intArrayOf(1, 2), 3)
 }
 
 fun rotate(nums: IntArray, k: Int) {
