@@ -1,4 +1,4 @@
-package array.extra
+package array.matreices
 
 fun main() {
 
