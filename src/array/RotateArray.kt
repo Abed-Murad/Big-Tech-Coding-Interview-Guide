@@ -13,10 +13,8 @@ fun rotate(nums: IntArray, k: Int) {
 }
 
 fun reverse(nums: IntArray, start: Int, end: Int) {
-    @Suppress("NAME_SHADOWING")
     var start = start
 
-    @Suppress("NAME_SHADOWING")
     var end = end
     while (start < end) {
         val temp = nums[start]
