@@ -1,5 +1,9 @@
 package array
 
+import java.util.*
+import kotlin.collections.HashMap
+
+
 fun main() {
     isValidSudoku(
         arrayOf(
@@ -16,19 +20,40 @@ fun main() {
     )
 }
 
+
 fun isValidSudoku(board: Array<CharArray>): Boolean {
-    val map = HashSet<Char>()
-    for (arr in board) {
-        for (char in arr) {
-            if (char != '.') {
-                if (map.contains(char)) {
-                    return false
-                }
-                map.add(char)
-            }
-        }
-        map.clear()
+    // init data
+    val rows = HashMap<Int, HashMap<Int, Int>>(9)
+    val columns = HashMap<Int, HashMap<Int, Int>>(9)
+    val boxes = HashMap<Int, HashMap<Int, Int>>(9)
+    for (i in 0..8) {
+        rows[i] = HashMap()
+        columns[i] = HashMap()
+        boxes[i] = HashMap()
     }
 
+    // validate a board
+    for (i in 0..8) {
+        for (j in 0..8) {
+            val num = board[i][j]
+            if (num != '.') {
+                val number = num.toInt()
+                val boxIndex = i / 3 * 3 + j / 3
+
+                // keep the current cell value
+                rows[i]!![number] = rows[i]!!.getOrDefault(number, 0) + 1
+                columns[i]!![number] = columns[i]!!.getOrDefault(number, 0) + 1
+                boxes[boxIndex]!![number] = boxes[boxIndex]!!.getOrDefault(number, 0) + 1
+
+                // check if this value has been already seen before
+                if (rows[i]!![number]!! > 1 || columns[i]!![number]!! > 1 || boxes[boxIndex]!![number]!! > 1) {
+                    return false
+                }
+            }
+        }
+    }
     return true
 }
+
+
+// Priority: P0
