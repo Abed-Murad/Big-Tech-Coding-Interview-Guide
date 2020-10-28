@@ -1,7 +1,6 @@
 package array
 
 import java.util.*
-import kotlin.collections.HashMap
 
 
 fun main() {
@@ -22,38 +21,17 @@ fun main() {
 
 
 fun isValidSudoku(board: Array<CharArray>): Boolean {
-    // init data
-    val rows = HashMap<Int, HashMap<Int, Int>>(9)
-    val columns = HashMap<Int, HashMap<Int, Int>>(9)
-    val boxes = HashMap<Int, HashMap<Int, Int>>(9)
-    for (i in 0..8) {
-        rows[i] = HashMap()
-        columns[i] = HashMap()
-        boxes[i] = HashMap()
-    }
-
-    // validate a board
-    for (i in 0..8) {
-        for (j in 0..8) {
-            val num = board[i][j]
-            if (num != '.') {
-                val number = num.toInt()
-                val boxIndex = i / 3 * 3 + j / 3
-
-                // keep the current cell value
-                rows[i]!![number] = rows[i]!!.getOrDefault(number, 0) + 1
-                columns[i]!![number] = columns[i]!!.getOrDefault(number, 0) + 1
-                boxes[boxIndex]!![number] = boxes[boxIndex]!!.getOrDefault(number, 0) + 1
-
-                // check if this value has been already seen before
-                if (rows[i]!![number]!! > 1 || columns[i]!![number]!! > 1 || boxes[boxIndex]!![number]!! > 1) {
-                    return false
-                }
-            }
+    val seen = HashSet<String>()
+    for (i in 0 until 9) {
+        for (j in 0 until 9) {
+            val number = board[i][j]
+            if (number != '.') if (!seen.add("$number in row $i") ||
+                !seen.add("$number in column $j") ||
+                !seen.add(number.toString() + " in block " + i / 3 + "-" + j / 3)
+            ) return false
         }
     }
     return true
 }
-
 
 // Priority: P0
