@@ -6,6 +6,7 @@ fun main() {
     isAnagram("rat", "car")
 }
 
+// Better space complexity
 fun isAnagram(s: String, t: String): Boolean {
     if (s.length != t.length) return false
 
@@ -22,6 +23,7 @@ fun isAnagram(s: String, t: String): Boolean {
     return table.all { it == 0 }
 }
 
+// My original solution
 fun isAnagramWithHashMap(s: String, t: String): Boolean {
     if (s.length != t.length) return false
     val firstMap = HashMap<Char, Int>()
