@@ -1,4 +1,4 @@
-package practice_coding_assessment_30_10_2020_771
+package tests.practice_coding_assessment_30_10_2020_771
 
 fun main() {
 
