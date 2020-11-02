@@ -11,6 +11,7 @@ fun main() {
 
     deleteNode(node2)
 }
+
 // we have to replace the value of the node we want to delete with the value in the node after it,
 // and then delete the node after it.
 // Time and space complexity are both O(1).
