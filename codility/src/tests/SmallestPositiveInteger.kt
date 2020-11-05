@@ -23,7 +23,7 @@ fun smallestPositiveInteger(A: IntArray): Int {
         } else if (i > smallestPositiveInteger) {
             continue
         }
-    }9
+    }
     return smallestPositiveInteger
 }
 
