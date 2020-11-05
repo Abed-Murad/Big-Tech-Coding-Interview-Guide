@@ -1,3 +1,5 @@
+package tests
+
 fun main() {
     smallestPositiveInteger(intArrayOf(1, 2, 4, 50, 5))
 }
@@ -21,7 +23,7 @@ fun smallestPositiveInteger(A: IntArray): Int {
         } else if (i > smallestPositiveInteger) {
             continue
         }
-    }
+    }9
     return smallestPositiveInteger
 }
 
