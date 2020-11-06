@@ -13,7 +13,7 @@ fun main() {
 }
 
 fun reverseListIterative(head: ListNode?): ListNode? {
-    if (head == null || head.next == null) return head
+    if (head?.next == null) return head
 
     var traverseNode = head
     var newHead = head
@@ -40,7 +40,7 @@ fun reverseListRecursive(head: ListNode?): ListNode? {
 }
 
 
-fun resverseList(head: ListNode?): ListNode? {
+fun reverseList2(head: ListNode?): ListNode? {
     var prev: ListNode? = null
     var curr = head
     while (curr != null) {
@@ -58,3 +58,5 @@ fun reverseList(head: ListNode?): ListNode? {
     head.next = null
     return p
 }
+
+

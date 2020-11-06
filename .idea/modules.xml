@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProplemSolvingQuestions.iml" filepath="$PROJECT_DIR$/ProplemSolvingQuestions.iml" />
       <module fileurl="file://$PROJECT_DIR$/codesignal/codesignal.iml" filepath="$PROJECT_DIR$/codesignal/codesignal.iml" />
       <module fileurl="file://$PROJECT_DIR$/codility/codility.iml" filepath="$PROJECT_DIR$/codility/codility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cracking_the_coding_inteview/cracking_the_coding_inteview.iml" filepath="$PROJECT_DIR$/cracking_the_coding_inteview/cracking_the_coding_inteview.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
     </modules>
   </component>
