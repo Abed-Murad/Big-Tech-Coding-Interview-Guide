@@ -4,7 +4,6 @@ fun main() {
 }
 
 
-غ
 
 fun printParenthesesArrangements(n: Int): Array<String> {
     var resut = mutableListOf<String>()
