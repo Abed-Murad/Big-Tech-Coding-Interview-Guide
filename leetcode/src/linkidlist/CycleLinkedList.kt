@@ -1,6 +1,6 @@
 package linkidlist
 
-import java.lang.Exception
+import ListNode
 
 fun main() {
 

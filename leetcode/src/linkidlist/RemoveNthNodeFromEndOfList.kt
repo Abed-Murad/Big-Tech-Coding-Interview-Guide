@@ -1,5 +1,7 @@
 package linkidlist
 
+import ListNode
+
 fun main() {
 
 }

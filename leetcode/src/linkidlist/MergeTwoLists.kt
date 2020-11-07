@@ -1,5 +1,7 @@
 package linkidlist
 
+import ListNode
+
 fun main() {
     val node11 = ListNode(1)
     val node12 = ListNode(2)
