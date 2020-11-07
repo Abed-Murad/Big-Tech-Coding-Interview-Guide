@@ -1,6 +1,6 @@
 # Problem Solving Questions
 
-This repo includes solutions and Time and space complexity notes about questions form 
+This repo includes solutions and Time and space complexity notes about questions from 
 
 - [LeetCode](leetcode.com/)
 - [CodeSignal](https://app.codesignal.com/)
