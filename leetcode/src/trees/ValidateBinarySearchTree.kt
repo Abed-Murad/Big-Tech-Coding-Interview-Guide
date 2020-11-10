@@ -1,6 +1,7 @@
 package trees
 
 import TreeNode
+import sun.reflect.generics.visitor.Visitor
 import java.util.*
 
 
@@ -22,6 +23,8 @@ fun main() {
     isValidBST(root)
 
 }
+
+
 
 // Push All the left values to the stack, then compare them to the next values in a inOrder Traversal.
 fun isValidBST(root: TreeNode?): Boolean {
