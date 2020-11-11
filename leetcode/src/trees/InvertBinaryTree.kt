@@ -6,6 +6,7 @@ fun main() {
 
 }
 
+// Time complexity = O(N), Space complexity = O(N)
 fun invertTree(root: TreeNode?): TreeNode? {
     if (root == null) return null
     val temp = root.left
@@ -15,3 +16,5 @@ fun invertTree(root: TreeNode?): TreeNode? {
     invertTree(root.right)
     return root
 }
+
+//TODO: Solve it Iteratively!
