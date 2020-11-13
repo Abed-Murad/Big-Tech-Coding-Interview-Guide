@@ -1,5 +1,7 @@
 # Problem Solving Questions
 
+An algorithm a day keeps the code bugs away.
+
 This repo includes solutions and Time and space complexity notes about questions from 
 
 - [LeetCode](leetcode.com/)
@@ -7,5 +9,6 @@ This repo includes solutions and Time and space complexity notes about questions
 - [HackerRank](https://www.hackerrank.com)
 - [Codility](https://codility.com/)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
+
 
 Good luck :)
