@@ -9,7 +9,7 @@ fun main() {
 
 object RecursiveFib {
 
-    // Time complexity =  O(2^n)
+// Time complexity =  O(2^n)
 // Space complexity =  O(n)
 // Notes: Approach 1: Recursion
     fun fib(n: Int): Int {
