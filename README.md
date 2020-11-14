@@ -1,6 +1,5 @@
 # My Coding Interview Kit (CIK)
 
-
 ## Core CS Algorithms
 
 - [ ] Insertion sort
@@ -45,6 +44,27 @@
 
 - [ ] Floyd-Warshall Algorithm for The Shortest Paths 
 
+
+## Top Data Structures 
+
+- [ ] Linked List 
+- [ ] Stack
+- [ ] Queue
+- [ ] Tree
+- [ ] Graph
+- [ ] Binary Tree
+- [ ] Binary Search Tree (BST)
+    - [ ] Insertion in BST
+    - [ ] Search given key in BST
+    - [ ] Deletion from BST
+- [ ] Heap
+    - [ ] Min Heap and Max Heap
+    - [ ] Graph Implementation using STL
+    - [ ] Graph Implementation without using STL
+- [ ] Tire
+    - [ ] Trie Implementation, Insert, Search and Delete
+    - [ ] Memory efficient Trie Implementation using Map 
+        - [ ] Insert, Search and Delete
 
 
 This repo includes solutions and Time and space complexity notes about questions from 
