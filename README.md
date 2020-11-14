@@ -1,5 +1,14 @@
 # My Coding Interview Kit (CIK)
 
+## Core Data Structures 
+
+- [ ] Programming paradigms 
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Greedy Algorithms
+- [ ] Hashing
+- [ ] Recursion
+
 ## Core CS Algorithms
 
 - [ ] Insertion sort
@@ -45,22 +54,30 @@
 - [ ] Floyd-Warshall Algorithm for The Shortest Paths 
 
 
-## Top Data Structures 
+## Core Data Structures 
 
 - [ ] Linked List 
+
 - [ ] Stack
+
 - [ ] Queue
+
 - [ ] Tree
+
 - [ ] Graph
+
 - [ ] Binary Tree
+
 - [ ] Binary Search Tree (BST)
     - [ ] Insertion in BST
     - [ ] Search given key in BST
     - [ ] Deletion from BST
+    
 - [ ] Heap
     - [ ] Min Heap and Max Heap
     - [ ] Graph Implementation using STL
     - [ ] Graph Implementation without using STL
+    
 - [ ] Tire
     - [ ] Trie Implementation, Insert, Search and Delete
     - [ ] Memory efficient Trie Implementation using Map 
