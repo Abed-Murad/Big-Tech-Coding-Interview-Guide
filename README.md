@@ -5,7 +5,8 @@ An algorithm a day keeps the code bugs away.
 
 ## Top Algorithms every computer science student should know
 
-- [ ] Insertion sort, Selection sort,
+- [ ] Insertion sort
+- [ ] Selection sort
 
 - [ ] Merge Sort, Quicksort
 
