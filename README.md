@@ -1,14 +1,15 @@
-# My Coding Inteview Kit
-
-An algorithm a day keeps the code bugs away.
+# My Coding Interview Kit (CIK)
 
 
-## Top Algorithms every computer science student should know
+## Core CS Algorithms
 
 - [ ] Insertion sort
+
 - [ ] Selection sort
 
-- [ ] Merge Sort, Quicksort
+- [ ] Merge Sort
+
+- [ ] Quicksort
 
 - [ ] Binary Search
 
@@ -16,7 +17,7 @@ An algorithm a day keeps the code bugs away.
 
 - [ ] Depth First Search (DFS)
 
-- [ ] Lee algorithm | Shortest path in a Maze
+- [ ] Lee algorithm for The Shortest path in a Maze
 
 - [ ] Flood fill Algorithm
 
@@ -24,21 +25,25 @@ An algorithm a day keeps the code bugs away.
 
 - [ ] Kadane’s algorithm
 
-- [ ] Longest Increasing Subsequence
+- [ ] The Longest Increasing Subsequence
 
-- [ ] Inorder, Preorder, Postorder Tree Traversals
+- [ ] Inorder Tree Traversals
+
+- [ ] Preorder Tree Traversals
+
+- [ ] Postorder Tree Traversals
 
 - [ ] Heap Sort
 
 - [ ] Topological Sorting in a DAG
 
-- [ ] Disjoint-Set Data Structure (Union-Find Algorithm)
+- [ ] Union-Find Algorithm for Disjoint-Set Data Structure
 
 - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree
 
-- [ ] Single-Source Shortest Paths — Dijkstra’s Algorithm
+- [ ] Dijkstra’s Algorithm for The Shortest Paths  
 
-- [ ] All-Pairs Shortest Paths — Floyd Warshall Algorithm
+- [ ] Floyd-Warshall Algorithm for The Shortest Paths 
 
 
 
