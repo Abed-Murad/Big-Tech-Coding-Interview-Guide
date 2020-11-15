@@ -31,9 +31,9 @@
 ## Progress 
 
 - [ ] Leetcode Cards
-    - [ ] Top Interview Questions - Easy Collection 
-    - [ ] Top Interview Questions -Medium Collection 
-    - [ ] Top Interview Questions - Hard Collection 
+    - [ ] Top Interview Questions - Easy Collection  80%
+    - [ ] Top Interview Questions -Medium Collection 0%
+    - [ ] Top Interview Questions - Hard Collection 0%
     - [ ] Coding Interview Strategy
     - [ ] Rock the Behavioral Interview
 
@@ -130,6 +130,8 @@
 - [ ] Floyd-Warshall Algorithm for The Shortest Paths
  
 - [ ] Fisher-Yates algorithm  For Generating Random Permutation 
+
+- [ ] Sieve of Eratosthenes algorithm for finding all prime numbers up to any given limit. 
 
 
 
