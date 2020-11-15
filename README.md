@@ -2,7 +2,8 @@
 
 > ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 >
-> I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions in one place,
+> I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions alongside with 
+> their time and space complexity and other notes in one place,
 > then it grew to become more of a study plan, and a coding interview guide. 
 >
 > The goal of this guide is to prepare me for the coding interviews in high tech companies like Amazon, Facebook,
@@ -14,13 +15,20 @@
 > 
 > Good luck :)
 
- **Leetcode progress** 
- - [ ] 54/70 easy 
- 
- - [ ] 13/20 medium 
- 
- - [ ] 1/20 hard
-  
+
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Core CS Concepts](#core-cs-concepts)
+* [Core Data Structures](#core-data-structures)
+* [Core CS Algorithms](#core-cs-algorithms)
+* [Important Problems](#core-cs-algorithms)
+* [References](#core-cs-algorithms)
+
+
+
+
 ## Core CS Concepts 
 
 - [ ] Programming paradigms 
@@ -35,6 +43,37 @@
 
 - [ ] Recursion
 
+
+## Core Data Structures 
+
+- [X] Linked List 
+
+- [X] Stack
+
+- [X] Queue
+
+- [X] Tree
+
+- [ ] Graph
+
+- [X] Binary Tree
+
+- [X] Binary Search Tree (BST)
+    - [X] Insertion in BST
+    - [X] Search given key in BST
+    - [X] Deletion from BST
+    
+- [ ] Heap
+    - [ ] Min Heap and Max Heap
+    - [ ] Graph Implementation using STL
+    - [ ] Graph Implementation without using STL
+    
+- [ ] Tire
+    - [ ] Trie Implementation, Insert, Search and Delete
+    - [ ] Memory efficient Trie Implementation using Map 
+        - [ ] Insert, Search and Delete
+        
+        
 ## Core CS Algorithms
 
 - [ ] Insertion sort
@@ -83,34 +122,7 @@
  
 - [ ] Fisher-Yates algorithm  For Generating Random Permutation 
 
-## Core Data Structures 
 
-- [X] Linked List 
-
-- [X] Stack
-
-- [X] Queue
-
-- [X] Tree
-
-- [ ] Graph
-
-- [X] Binary Tree
-
-- [X] Binary Search Tree (BST)
-    - [X] Insertion in BST
-    - [X] Search given key in BST
-    - [X] Deletion from BST
-    
-- [ ] Heap
-    - [ ] Min Heap and Max Heap
-    - [ ] Graph Implementation using STL
-    - [ ] Graph Implementation without using STL
-    
-- [ ] Tire
-    - [ ] Trie Implementation, Insert, Search and Delete
-    - [ ] Memory efficient Trie Implementation using Map 
-        - [ ] Insert, Search and Delete
 
 
 # Important Problems 
@@ -119,14 +131,11 @@
 
 # References 
 
-- [1](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
-This repo includes solutions and Time and space complexity notes about questions from 
+[1](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
+
 
 - [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
 - [HackerRank](https://www.hackerrank.com)
 - [Codility](https://codility.com/)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
-
-
-Good luck :)
