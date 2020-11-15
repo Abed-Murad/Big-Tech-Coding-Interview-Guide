@@ -1,14 +1,19 @@
 # My Coding Interview Kit (CIK)
 
 
-> I started this repo as place to put all my [Leetcode](www.leetcode.com) solutions in one place, then it grew 
-> to become more of a study plan, and a coding interview guide. 
+> I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions in one place,
+> then it grew to become more of a study plan, and a coding interview guide. 
+>
 > The goal of this guide is to prepare me for the coding interviews in high tech companies like Amazon, Facebook,
 > Google, and Microsoft.
->  
+>
+> This is a personal repo that you may see my notes all over the place, you may find some weird commit messages.
+> If I had the time in the future I will make sure organize it more!
+> 
+> Good luck :)
 
 
-## Core Data Structures 
+## Core CS Concepts 
 
 - [ ] Programming paradigms 
 
@@ -34,9 +39,9 @@
 
 - [ ] Binary Search
 
-- [ ] Breadth First Search (BFS)
+- [X] Breadth First Search (BFS)
 
-- [ ] Depth First Search (DFS)
+- [X] Depth First Search (DFS)
 
 - [ ] Lee algorithm for The Shortest path in a Maze
 
@@ -48,11 +53,11 @@
 
 - [ ] The Longest Increasing Subsequence
 
-- [ ] Inorder Tree Traversals
+- [X] Inorder Tree Traversals
 
-- [ ] Preorder Tree Traversals
+- [X] Preorder Tree Traversals
 
-- [ ] Postorder Tree Traversals
+- [X] Postorder Tree Traversals
 
 - [ ] Heap Sort
 
@@ -69,22 +74,22 @@
 
 ## Core Data Structures 
 
-- [ ] Linked List 
+- [X] Linked List 
 
-- [ ] Stack
+- [X] Stack
 
-- [ ] Queue
+- [X] Queue
 
-- [ ] Tree
+- [X] Tree
 
 - [ ] Graph
 
-- [ ] Binary Tree
+- [X] Binary Tree
 
-- [ ] Binary Search Tree (BST)
-    - [ ] Insertion in BST
-    - [ ] Search given key in BST
-    - [ ] Deletion from BST
+- [X] Binary Search Tree (BST)
+    - [X] Insertion in BST
+    - [X] Search given key in BST
+    - [X] Deletion from BST
     
 - [ ] Heap
     - [ ] Min Heap and Max Heap
