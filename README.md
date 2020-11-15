@@ -1,6 +1,7 @@
-# My Coding Interview Kit
+# My Coding Interview Guide
 
 > ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+>
 > I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions in one place,
 > then it grew to become more of a study plan, and a coding interview guide. 
 >
@@ -8,6 +9,7 @@
 > Google, and Microsoft.
 >
 > This is a personal repo that you may see my notes all over the place, you may find some weird commit messages.
+>
 > If I had the time in the future I will make sure organize it more!
 > 
 > Good luck :)
