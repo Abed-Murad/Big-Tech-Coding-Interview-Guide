@@ -1,6 +1,6 @@
-# My Coding Interview Kit (CIK)
+# My Coding Interview Kit
 
-
+> ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 > I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions in one place,
 > then it grew to become more of a study plan, and a coding interview guide. 
 >
