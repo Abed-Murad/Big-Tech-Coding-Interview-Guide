@@ -15,6 +15,14 @@
 > Good luck :)
 
 
+ **Current Leetcode Goal = 100 (70 easy, 20 medium, 10 hard)**
+ 
+ - [ ] 54/70 easy 
+ 
+ - [ ] 13/20 medium 
+ 
+ - [ ] 1/20 hard
+  
 ## Core CS Concepts 
 
 - [ ] Programming paradigms 
@@ -103,6 +111,10 @@
     - [ ] Memory efficient Trie Implementation using Map 
         - [ ] Insert, Search and Delete
 
+
+# Important Problems 
+
+- [ ] Alternative Sorting 
 
 This repo includes solutions and Time and space complexity notes about questions from 
 
