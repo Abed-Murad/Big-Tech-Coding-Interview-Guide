@@ -14,9 +14,7 @@
 > 
 > Good luck :)
 
-
- **Current Leetcode Goal = 100 (70 easy, 20 medium, 10 hard)**
- 
+ **Leetcode progress** 
  - [ ] 54/70 easy 
  
  - [ ] 13/20 medium 
@@ -77,10 +75,13 @@
 
 - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree
 
+- [ ] kadane's algorithm for Maximum Sum SubArray
+
 - [ ] Dijkstra’s Algorithm for The Shortest Paths  
 
-- [ ] Floyd-Warshall Algorithm for The Shortest Paths 
-
+- [ ] Floyd-Warshall Algorithm for The Shortest Paths
+ 
+- [ ] Fisher-Yates algorithm  For Generating Random Permutation 
 
 ## Core Data Structures 
 
@@ -118,7 +119,7 @@
 
 This repo includes solutions and Time and space complexity notes about questions from 
 
-- [LeetCode](leetcode.com/)
+- [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
 - [HackerRank](https://www.hackerrank.com)
 - [Codility](https://codility.com/)

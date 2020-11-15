@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/cracking_the_coding_inteview/cracking_the_coding_inteview.iml" filepath="$PROJECT_DIR$/cracking_the_coding_inteview/cracking_the_coding_inteview.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerrank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/hackerrank.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure_algorithms/pure_algorithms.iml" filepath="$PROJECT_DIR$/pure_algorithms/pure_algorithms.iml" />
     </modules>
   </component>
 </project>
