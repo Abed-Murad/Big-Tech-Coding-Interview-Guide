@@ -1,7 +1,7 @@
 # My Coding Interview Kit (CIK)
 
 
-> I started this repo as place to put all my (Leetcode)[leetcode.com] solutions in one place, then it grew 
+> I started this repo as place to put all my [Leetcode](www.leetcode.com) solutions in one place, then it grew 
 > to become more of a study plan, and a coding interview guide. 
 > The goal of this guide is to prepare me for the coding interviews in high tech companies like Amazon, Facebook,
 > Google, and Microsoft.
