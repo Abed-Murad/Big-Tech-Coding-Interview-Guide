@@ -31,7 +31,7 @@
 ## Progress 
 
 - [ ] Leetcode Cards
-    - [ ] Top Interview Questions - Easy Collection  80%
+    - [X] Top Interview Questions - Easy Collection  100%
     - [ ] Top Interview Questions -Medium Collection 0%
     - [ ] Top Interview Questions - Hard Collection 0%
     - [ ] Coding Interview Strategy
@@ -134,6 +134,15 @@
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
 
+# Math 
+> Suggested sections: statistics, linear algebra, and calculus
+## Core Math Concepts
+
+- [ ] Discrete Mathematics
+- [ ] Gauss' Formula 
+
+## Resources 
+- [ ] [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
 
 
 # Important Problems 
