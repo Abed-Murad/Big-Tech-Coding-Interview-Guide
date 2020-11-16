@@ -5,7 +5,7 @@ fun main() {
 
 // Source: https://www.techiedelight.com/sieve-of-eratosthenes/
 // The First prime number => 2
-// Time complexity =  O(n log (log n))
+// Time complexity =  O(n log (log n)), TODO(WHY?)
 // Space complexity =  O(n)
 
 // Function to print prime numbers in the range of a given number n
@@ -17,7 +17,7 @@ fun sieveOfEratosthenes(n: Int) {
         a[i] = 1
     }
     var i = 2
-    while (i  <= Math.sqrt(n.toDouble())) { // uses (i * i) to avoid the heavy call of (Math.sqrt(n.toDouble()))
+    while (i <= Math.sqrt(n.toDouble())) { // uses (i * i) to avoid the heavy call of (Math.sqrt(n.toDouble()))
         if (a[i] == 1) // checks if i is prime
         {
             var j = 2
