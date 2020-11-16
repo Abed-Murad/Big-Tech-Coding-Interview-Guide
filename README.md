@@ -131,7 +131,7 @@
  
 - [ ] Fisher-Yates algorithm  For Generating Random Permutation 
 
-- [ ] Sieve of Eratosthenes algorithm for finding all prime numbers up to any given limit. 
+- [ ] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
 
 
@@ -140,10 +140,14 @@
 
 - [ ] Alternative Sorting 
 
-# References 
+# Notes 
+- make sure to be filmier with the great algorithms before you start to solve problems
+this will help you to get more of the problems rather than using them the learn the algorithms
+  
 
-[1](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
+# Links & References 
 
+- [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 
 - [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
