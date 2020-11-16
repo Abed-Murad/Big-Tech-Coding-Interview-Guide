@@ -17,7 +17,7 @@ fun sieveOfEratosthenes(n: Int) {
         a[i] = 1
     }
     var i = 2
-    while (i <= Math.sqrt(n.toDouble())) { // uses (i * i) to avoid the heavy call of (Math.sqrt(n.toDouble()))
+    while (i * i <= n) { // uses (i * i) to avoid the heavy call of (Math.sqrt(n.toDouble()))
         if (a[i] == 1) // checks if i is prime
         {
             var j = 2
@@ -30,7 +30,7 @@ fun sieveOfEratosthenes(n: Int) {
     }
     for (p in 2..n) {
         if (a[p] == 1) {
-            print("$i ") // prints primes
+            print("$p ") // prints primes
         }
     }
 }
