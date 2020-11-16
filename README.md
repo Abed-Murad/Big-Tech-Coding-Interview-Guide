@@ -145,9 +145,11 @@
 this will help you to get more of the problems rather than using them the learn the algorithms
   
   
-# Learning to-do list 
-- [ ] Hamming Weight, Hamming distance.
-- [ ] Bit Manipulation, bitwise operations.
+# Learning to-do list
+- [ ] Bit Manipulation
+    - [ ] Signed number representations 
+    - [ ] Hamming Weight, Hamming distance.
+    - [ ] Bitwise operations.
 
 
 # Links & References 
