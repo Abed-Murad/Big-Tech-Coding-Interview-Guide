@@ -9,27 +9,27 @@ fun main() {
 // Space complexity =  O(n)
 
 // Function to print prime numbers in the range of a given number n
+// 1. Take the next available unmarked number in your list (it is prime)
+// 2. mark all the multiples of that number (they are not prime)
 fun sieveOfEratosthenes(n: Int) {
     val a = IntArray(n + 1)
     for (i in 0..n) { // initialize all numbers as prime
         a[i] = 1
     }
-    run {
-        var i = 2
-        while (i <= Math.sqrt(n.toDouble())) {
-            if (a[i] == 1) // checks if i is prime
-            {
-                var j = 2
-                while (i * j <= n) {
-                    a[i * j] = 0 // multiples of i are not prime
-                    j++
-                }
+    var i = 2
+    while (i  <= Math.sqrt(n.toDouble())) { // uses (i * i) to avoid the heavy call of (Math.sqrt(n.toDouble()))
+        if (a[i] == 1) // checks if i is prime
+        {
+            var j = 2
+            while (i * j <= n) {
+                a[i * j] = 0 // multiples of i are not prime
+                j++
             }
-            i++
         }
+        i++
     }
-    for (i in 2..n) {
-        if (a[i] == 1) {
+    for (p in 2..n) {
+        if (a[p] == 1) {
             print("$i ") // prints primes
         }
     }

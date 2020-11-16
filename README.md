@@ -131,7 +131,7 @@
  
 - [ ] Fisher-Yates algorithm  For Generating Random Permutation 
 
-- [ ] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
+- [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
 
 
