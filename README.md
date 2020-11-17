@@ -134,9 +134,14 @@
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
 
-# Math 
+## Core Problem Solving Techniques
+- [ ] Window Sliding Technique
+- [X] Two Pointers Technique
+
+
+## Math 
 > Suggested sections: statistics, linear algebra, and calculus
-## Core Math Concepts
+### Core Math Concepts
 
 - [ ] Discrete Mathematics
 - [ ] Gauss' Formula 
@@ -145,23 +150,23 @@
 - [ ] [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
 
 
-# Important Problems 
+## Important Problems 
 
 - [ ] Alternative Sorting 
 
-# Notes 
+## Notes 
 - make sure to be filmier with the great algorithms before you start to solve problems
 this will help you to get more of the problems rather than using them the learn the algorithms
   
   
-# Learning to-do list
+## Learning to-do list
 - [ ] Bit Manipulation
     - [ ] Signed number representations 
     - [ ] Hamming Weight, Hamming distance.
     - [ ] Bitwise operations.
 
 
-# Links & References 
+## Links & References 
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 
