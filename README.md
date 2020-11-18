@@ -97,7 +97,7 @@
 
 - [ ] Merge Sort
 
-- [ ] Quicksort
+- [ ] Quick Sort
 
 - [ ] Binary Search
 
@@ -139,6 +139,9 @@
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
+- [ ] Knuth–Morris–Pratt algorithm
+
+- [ ] Edmonds-Karp for max flow/min cut problems.
 
 ## Core Problem Solving Techniques
 - [ ] Window Sliding Technique
