@@ -41,7 +41,13 @@
 ## Core CS Concepts 
 
 - [ ] Programming paradigms 
-
+    - [ ] Imperative Programming 
+    - [X] Object Oriented Programming
+    - [X] Declarative Programming 
+    - [X] Functional Programming 
+    - [ ] Structured Programming
+    - [ ] Logical Programming 
+    
 - [ ] Backtracking
 
 - [ ] Dynamic Programming
