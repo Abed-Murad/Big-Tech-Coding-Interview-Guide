@@ -185,3 +185,8 @@ this will help you to get more of the problems rather than using them the learn 
 - [Codility](https://codility.com/)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
 - [Hacker Earth !!](https://www.hackerearth.com/)
+
+
+Finally, there is a popular saying among Navy Seals!
+
+“We don't rise to the level of our expectations; we fall to the level of our training”
