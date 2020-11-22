@@ -91,7 +91,7 @@
         
 ## Core CS Algorithms
 
-- [ ] Insertion sort
+- [X] Insertion sort
 
 - [ ] Selection sort
 
