@@ -4,6 +4,9 @@ fun main() {
     selectionSort(intArrayOf(3, 5, 8, 4, 1, 9, -2))
 }
 
+// Time complexity =  O(n^2)
+// Space complexity =  O(1)
+// Notes:
 fun selectionSort(arr: IntArray): IntArray {
     var lastIndex = arr.size - 1
 

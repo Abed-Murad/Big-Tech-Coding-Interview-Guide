@@ -93,7 +93,7 @@
 
 - [X] Insertion sort
 
-- [ ] Selection sort
+- [X] Selection sort
 
 - [ ] Merge Sort
 

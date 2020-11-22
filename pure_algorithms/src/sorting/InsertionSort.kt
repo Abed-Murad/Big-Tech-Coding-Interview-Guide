@@ -4,7 +4,7 @@ fun main() {
     println(insertionSort(intArrayOf(3, 8, 5, 4, 1, 9, -2)).toList())
 }
 
-// Time complexity =  O(n2)
+// Time complexity =  O(n^2)
 // Space complexity =  O(1)
 // Notes: The main trick is understanding the life-cycle of 'holePosition' !
 fun insertionSort(arr: IntArray): IntArray {
