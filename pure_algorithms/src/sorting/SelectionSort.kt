@@ -8,20 +8,22 @@ fun main() {
 // Space complexity =  O(1)
 // Notes:
 fun selectionSort(arr: IntArray): IntArray {
-    var lastIndex = arr.size - 1
+    val lastIndex = arr.size - 1
 
     // find the minimum element in the unsorted sub-array[i..n-1]
     // and swap it with arr[i]
-    for (i in 0..lastIndex) {
-        var min = i
+    for (i in 0 until lastIndex) {
+        var minIndex = i
+        // Find an index of a lowest element in the right-hand side
+        // corresponding to the element arr[i].
         for (j in i + 1..lastIndex) {
             // if arr[j] element is less, then it is the new minimum
-            if (arr[j] < arr[min]) {
-                min = j // update index of min element
+            if (arr[j] < arr[minIndex]) {
+                minIndex = j // update index of min element
             }
         }
         // swap the minimum element in sub-array[i..n-1] with arr[i]
-        swap(arr, min, i)
+        swap(arr, minIndex, i)
     }
     return arr
 }

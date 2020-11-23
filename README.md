@@ -95,11 +95,11 @@
 
 - [X] Selection sort
 
-- [ ] Merge Sort
+- [ ] Merge Sort (Current.11.23)
 
-- [ ] Quick Sort
+- [ ] Quick Sort (Next.11.23)
 
-- [ ] Binary Search
+- [ ] Binary Search (Next.11.23)
 
 - [X] Breadth First Search (BFS)
 
