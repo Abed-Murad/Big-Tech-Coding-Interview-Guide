@@ -97,7 +97,7 @@
 
 - [X] Merge Sort
 
-- [ ] Quick Sort (Next.11.23)
+- [X] Quick Sort 
 
 - [ ] Binary Search (Next.11.23)
 
