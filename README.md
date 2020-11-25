@@ -99,7 +99,7 @@
 
 - [X] Quick Sort 
 
-- [ ] Binary Search (Next.11.23)
+- [X] Binary Search 
 
 - [X] Breadth First Search (BFS)
 
