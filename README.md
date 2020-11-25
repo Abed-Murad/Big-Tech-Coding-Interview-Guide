@@ -95,7 +95,7 @@
 
 - [X] Selection sort
 
-- [ ] Merge Sort (Current.11.23)
+- [X] Merge Sort
 
 - [ ] Quick Sort (Next.11.23)
 

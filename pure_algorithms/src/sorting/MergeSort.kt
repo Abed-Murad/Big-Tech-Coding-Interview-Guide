@@ -1,7 +1,7 @@
 package sorting
 
 /**
- * Created by jens on 3/8/17.
+ * This guy -> https://www.youtube.com/watch?v=TzeBrDU-JaY   
  */
 
 fun mergeSort(list: List<Int>): List<Int> {
