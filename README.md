@@ -48,7 +48,7 @@
     - [ ] Structured Programming
     - [ ] Logical Programming 
     
-- [ ] Backtracking
+- [ ] Backtracking (In Progress: Related to The Shortest Path Problems)
 
 - [ ] Dynamic Programming
 
@@ -105,7 +105,7 @@
 
 - [X] Depth First Search (DFS)
 
-- [ ] Lee algorithm for The Shortest path in a Maze
+- [ ] Lee algorithm for The Shortest path in a Maze (In Progress)
 
 - [ ] Flood fill Algorithm
 
