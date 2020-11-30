@@ -30,7 +30,7 @@
 
 ## My Priority Queue
 
- 1. "Algorithm A day keeps the O(2^n) away" 
+ 1. **"An Algorithm A day keeps the O(2^n) away"** 
  
     - [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
     
