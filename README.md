@@ -36,10 +36,10 @@
     
     - [ ] Dijkstra’s Algorithm for The Shortest Paths (01 Dec)
     
-    - [ ] Floyd’s Cycle Detection Algorithm (02 Dec)
-    
-    - [ ] Kadane’s algorithm (03 Dec)
-    
+    - [ ] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
+
+    - [ ] Floyd’s Cycle Detection Algorithm (03 Dec)
+        
     - [ ] The Longest Increasing Subsequence (04 Dec)
     
     - [ ] Heap Sort (05 Dec)
@@ -53,9 +53,9 @@
     - [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
         
     - [ ] Flood fill Algorithm (10 Dec)
-
-    - [ ] Floyd-Warshall Algorithm for The Shortest Paths (11 Dec)
      
+    - [ ] Kadane’s algorithm (11 Dec)
+        
     - [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
     
     - [ ] Knuth–Morris–Pratt algorithm (13 Dec)
