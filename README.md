@@ -105,43 +105,43 @@
 
 - [X] Depth First Search (DFS)
 
-- [ ] Lee algorithm for The Shortest path in a Maze (In Progress)
-
-- [ ] Flood fill Algorithm
-
-- [ ] Floyd’s Cycle Detection Algorithm
-
-- [ ] Kadane’s algorithm
-
-- [ ] The Longest Increasing Subsequence
-
 - [X] Inorder Tree Traversals
 
 - [X] Preorder Tree Traversals
 
 - [X] Postorder Tree Traversals
 
-- [ ] Heap Sort
+- [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
 
-- [ ] Topological Sorting in a DAG
+- [ ] Flood fill Algorithm (01 Dec)
 
-- [ ] Union-Find Algorithm for Disjoint-Set Data Structure
+- [ ] Floyd’s Cycle Detection Algorithm (02 Dec)
 
-- [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree
+- [ ] Kadane’s algorithm (03 Dec)
 
-- [ ] kadane's algorithm for Maximum Sum SubArray
+- [ ] The Longest Increasing Subsequence (04 Dec)
 
-- [ ] Dijkstra’s Algorithm for The Shortest Paths  
+- [ ] Heap Sort (05 Dec)
 
-- [ ] Floyd-Warshall Algorithm for The Shortest Paths
+- [ ] Topological Sorting in a DAG (06 Dec)
+
+- [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
+
+- [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
+
+- [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
+
+- [ ] Dijkstra’s Algorithm for The Shortest Paths (10 Dec)
+
+- [ ] Floyd-Warshall Algorithm for The Shortest Paths (11 Dec)
  
-- [ ] Fisher-Yates algorithm  For Generating Random Permutation 
+- [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
+
+- [ ] Knuth–Morris–Pratt algorithm (13 Dec)
+
+- [ ] Edmonds-Karp for max flow/min cut problems (14 Dec)
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
-
-- [ ] Knuth–Morris–Pratt algorithm
-
-- [ ] Edmonds-Karp for max flow/min cut problems.
 
 ## Core Problem Solving Techniques
 - [ ] Window Sliding Technique
