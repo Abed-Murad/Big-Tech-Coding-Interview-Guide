@@ -28,14 +28,48 @@
 
 
 
-## Progress 
+## My Priority Queue
 
-- [ ] Leetcode Cards
-    - [X] Top Interview Questions - Easy Collection  100%
-    - [ ] Top Interview Questions -Medium Collection 0%
-    - [ ] Top Interview Questions - Hard Collection 0%
-    - [ ] Coding Interview Strategy
-    - [ ] Rock the Behavioral Interview
+ 1. "Algorithm A day keeps the O(2^2) away" 
+ 
+    - [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
+    
+    - [ ] Flood fill Algorithm (01 Dec)
+    
+    - [ ] Floyd’s Cycle Detection Algorithm (02 Dec)
+    
+    - [ ] Kadane’s algorithm (03 Dec)
+    
+    - [ ] The Longest Increasing Subsequence (04 Dec)
+    
+    - [ ] Heap Sort (05 Dec)
+    
+    - [ ] Topological Sorting in a DAG (06 Dec)
+    
+    - [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
+    
+    - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
+    
+    - [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
+    
+    - [ ] Dijkstra’s Algorithm for The Shortest Paths (10 Dec)
+    
+    - [ ] Floyd-Warshall Algorithm for The Shortest Paths (11 Dec)
+     
+    - [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
+    
+    - [ ] Knuth–Morris–Pratt algorithm (13 Dec)
+    
+    - [ ] Edmonds-Karp for max flow/min cut problems (14 Dec)
+
+
+2. Leetcode Problems
+    - [ ] Leetcode Cards
+        - [X] Top Interview Questions - Easy Collection  100%
+        - [ ] Top Interview Questions -Medium Collection 0%
+        - [ ] Top Interview Questions - Hard Collection 0%
+        - [ ] Coding Interview Strategy
+        - [ ] Rock the Behavioral Interview
 
 
 ## Core CS Concepts 
@@ -111,35 +145,7 @@
 
 - [X] Postorder Tree Traversals
 
-- [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
 
-- [ ] Flood fill Algorithm (01 Dec)
-
-- [ ] Floyd’s Cycle Detection Algorithm (02 Dec)
-
-- [ ] Kadane’s algorithm (03 Dec)
-
-- [ ] The Longest Increasing Subsequence (04 Dec)
-
-- [ ] Heap Sort (05 Dec)
-
-- [ ] Topological Sorting in a DAG (06 Dec)
-
-- [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
-
-- [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
-
-- [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
-
-- [ ] Dijkstra’s Algorithm for The Shortest Paths (10 Dec)
-
-- [ ] Floyd-Warshall Algorithm for The Shortest Paths (11 Dec)
- 
-- [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
-
-- [ ] Knuth–Morris–Pratt algorithm (13 Dec)
-
-- [ ] Edmonds-Karp for max flow/min cut problems (14 Dec)
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
@@ -164,8 +170,10 @@
 - [ ] Alternative Sorting 
 
 ## Notes 
-- make sure to be filmier with the great algorithms before you start to solve problems
+- Make sure to be familiar with the great algorithms before you start to solve problems
 this will help you to get more of the problems rather than using them the learn the algorithms
+
+- Make sure to be familiar with Graph and Graph Theory before going to Lee Algorithm and shortest path problems
   
   
 ## Learning to-do list
