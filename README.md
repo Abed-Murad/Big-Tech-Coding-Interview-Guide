@@ -34,7 +34,7 @@
  
     - [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
     
-    - [ ] Flood fill Algorithm (01 Dec)
+    - [ ] Dijkstra’s Algorithm for The Shortest Paths (01 Dec)
     
     - [ ] Floyd’s Cycle Detection Algorithm (02 Dec)
     
@@ -51,9 +51,9 @@
     - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
     
     - [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
-    
-    - [ ] Dijkstra’s Algorithm for The Shortest Paths (10 Dec)
-    
+        
+    - [ ] Flood fill Algorithm (10 Dec)
+
     - [ ] Floyd-Warshall Algorithm for The Shortest Paths (11 Dec)
      
     - [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
