@@ -30,7 +30,7 @@
 
 ## My Priority Queue
 
- 1. "Algorithm A day keeps the O(2^2) away" 
+ 1. "Algorithm A day keeps the O(2^n) away" 
  
     - [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
     
@@ -146,6 +146,7 @@
 - [X] Postorder Tree Traversals
 
 
+- [ ] A* Algorithm for finding the shortest path in a maze (Advance?)
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
@@ -182,6 +183,9 @@ this will help you to get more of the problems rather than using them the learn 
     - [ ] Hamming Weight, Hamming distance.
     - [ ] Bitwise operations.
 
+
+## Resume & Interview Soft Skills 
+> I may need to work on this section if I faced challenges in the future!   
 
 ## Links & References 
 
