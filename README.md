@@ -149,6 +149,8 @@
 
 - [X] Postorder Tree Traversals
 
+- [ ] Topological sorting
+
 - [ ] Shortest/Longest Distance/Path Algorithms
     
     - [ ] A* Algorithm(Advance?)
