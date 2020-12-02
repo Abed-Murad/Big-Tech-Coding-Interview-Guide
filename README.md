@@ -82,12 +82,13 @@
     - [ ] Structured Programming
     - [ ] Logical Programming 
     
-- [ ] Backtracking (In Progress: Related to The Shortest Path Problems)
+- [ ] Backtracking (In Progress: Related to The Shortest Path Problems?)
 
-- [ ] Dynamic Programming
-
-- [ ] Greedy Algorithms
-
+- [X] Dynamic Programming
+    - finds the optimal solution to subproblems and then makes an informed choice 
+      to combine the results of those subproblems to find the most optimum solution.
+- [X] Greedy Algorithms
+    - finds the best local choice aim at producing the best global results
 - [ ] Hashing
 
 - [ ] Recursion
