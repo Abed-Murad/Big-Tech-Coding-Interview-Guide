@@ -151,6 +151,8 @@
 
     - [ ] Bellman–Ford algorithm
 
+- [ ] Topological sorting
+
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n.
 
 ## Core Problem Solving Techniques
