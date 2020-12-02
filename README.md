@@ -32,7 +32,7 @@
 
  1. **"An Algorithm A day keeps the O(2^n) away"** 
  
-    - [ ] Lee algorithm for The Shortest path in a Maze (30 Nov)
+    - [X] Lee algorithm for The Shortest path in a Maze (30 Nov)
     
     - [ ] Dijkstra’s Algorithm for The Shortest Paths (01 Dec)
     
@@ -92,6 +92,8 @@
 
 - [ ] Recursion
 
+- [ ] Computational complexity theory (Advance?)
+
 
 ## Core Data Structures 
 
@@ -100,7 +102,7 @@
 - [X] Stack
 
 - [X] Queue
-
+    - [ ] Priority Queues
 - [X] Tree
 
 - [ ] Graph
@@ -145,8 +147,9 @@
 
 - [X] Postorder Tree Traversals
 
-
-- [ ] A* Algorithm for finding the shortest path in a maze (Advance?)
+- [ ] Shortest Path Algorithms
+    
+    - [ ] A* Algorithm(Advance?)
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
