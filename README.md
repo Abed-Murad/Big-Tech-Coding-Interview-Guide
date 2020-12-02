@@ -2,9 +2,9 @@
 
 > ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 >
-> I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions alongside with 
+> I started this repo as place to put all [my Leetcode](https://leetcode.com/abdallahMurad/) solutions alongside with
 > their time and space complexity and other notes in one place,
-> then it grew to become more of a study plan, and a coding interview guide. 
+> then it grew to become more of a study plan, and a coding interview guide.
 >
 > The goal of this guide is to prepare me for the coding interviews in high tech companies like Amazon, Facebook,
 > Google, and Microsoft.
@@ -12,12 +12,13 @@
 > This is a personal repo that you may see my notes all over the place, you may find some weird commit messages.
 >
 > If I had the time in the future I will make sure organize it more!
-> 
+>
 > Good luck :)
 
 
 
 <!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [Core CS Concepts](#core-cs-concepts)
@@ -26,67 +27,64 @@
 * [Important Problems](#core-cs-algorithms)
 * [References](#core-cs-algorithms)
 
-
-
 ## My Priority Queue
 
- 1. **"An Algorithm A day keeps the O(2^n) away"** 
- 
+1. **"An Algorithm A day keeps the O(2^n) away"**
+
     - [X] Lee algorithm for The Shortest path in a Maze (30 Nov)
-    
-    - [ ] Dijkstra’s Algorithm for The Shortest Paths (01 Dec)
-    
+
+    - [ ] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) (01 Dec)
+
     - [ ] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
 
     - [ ] Floyd’s Cycle Detection Algorithm (03 Dec)
-        
+
     - [ ] The Longest Increasing Subsequence (04 Dec)
-    
+
     - [ ] Heap Sort (05 Dec)
-    
+
     - [ ] Topological Sorting in a DAG (06 Dec)
-    
+
     - [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
-    
+
     - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
-    
+
     - [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
-        
+
     - [ ] Flood fill Algorithm (10 Dec)
-     
+
     - [ ] Kadane’s algorithm (11 Dec)
-        
-    - [ ] Fisher-Yates algorithm  For Generating Random Permutation (12 Dec)
-    
+
+    - [ ] Fisher-Yates algorithm For Generating Random Permutation (12 Dec)
+
     - [ ] Knuth–Morris–Pratt algorithm (13 Dec)
-    
+
     - [ ] Edmonds-Karp for max flow/min cut problems (14 Dec)
 
 
 2. Leetcode Problems
     - [ ] Leetcode Cards
-        - [X] Top Interview Questions - Easy Collection  100%
+        - [X] Top Interview Questions - Easy Collection 100%
         - [ ] Top Interview Questions -Medium Collection 0%
         - [ ] Top Interview Questions - Hard Collection 0%
         - [ ] Coding Interview Strategy
         - [ ] Rock the Behavioral Interview
 
+## Core CS Concepts
 
-## Core CS Concepts 
-
-- [ ] Programming paradigms 
-    - [ ] Imperative Programming 
-    - [X] Object Oriented Programming
-    - [X] Declarative Programming 
-    - [X] Functional Programming 
+- [ ] Programming paradigms
+    - [ ] Imperative Programming
+    - [X] Object-Oriented Programming
+    - [X] Declarative Programming
+    - [X] Functional Programming
     - [ ] Structured Programming
-    - [ ] Logical Programming 
-    
+    - [ ] Logical Programming
+
 - [ ] Backtracking (In Progress: Related to The Shortest Path Problems?)
 
 - [X] Dynamic Programming
-    - finds the optimal solution to subproblems and then makes an informed choice 
-      to combine the results of those subproblems to find the most optimum solution.
+    - finds the optimal solution to SubProblems and then makes an informed choice to combine the results of those
+      SubProblems to find the most optimum solution.
 - [X] Greedy Algorithms
     - finds the best local choice aim at producing the best global results
 - [ ] Hashing
@@ -95,10 +93,9 @@
 
 - [ ] Computational complexity theory (Advance?)
 
+## Core Data Structures
 
-## Core Data Structures 
-
-- [X] Linked List 
+- [X] Linked List
 
 - [X] Stack
 
@@ -115,18 +112,17 @@
     - [X] Insertion in BST
     - [X] Search given key in BST
     - [X] Deletion from BST
-    
+
 - [ ] Heap
     - [ ] Min Heap and Max Heap
     - [ ] Graph Implementation using STL
     - [ ] Graph Implementation without using STL
-    
+
 - [ ] Tire
     - [ ] Trie Implementation, Insert, Search and Delete
-    - [ ] Memory efficient Trie Implementation using Map 
+    - [ ] Memory efficient Trie Implementation using Map
         - [ ] Insert, Search and Delete
-        
-        
+
 ## Core CS Algorithms
 
 - [X] Insertion sort
@@ -135,9 +131,9 @@
 
 - [X] Merge Sort
 
-- [X] Quick Sort 
+- [X] Quick Sort
 
-- [X] Binary Search 
+- [X] Binary Search
 
 - [X] Breadth First Search (BFS)
 
@@ -149,48 +145,51 @@
 
 - [X] Postorder Tree Traversals
 
-- [ ] Shortest/Longest Distance/Path Algorithms
-    
+- [ ] Single-source/All-pairs Shortest/Longest Distance/Path Algorithms
+
     - [ ] A* Algorithm(Advance?)
-    
+
     - [ ] Bellman–Ford algorithm
 
-- [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
+- [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n.
 
 ## Core Problem Solving Techniques
+
 - [ ] Window Sliding Technique
 - [X] Two Pointers Technique
 
+## Math
 
-## Math 
 > Suggested sections: statistics, linear algebra, and calculus
+
 ### Core Math Concepts
 
 - [ ] Discrete Mathematics
-- [ ] Gauss' Formula 
+- [ ] Gauss' Formula
 
-## Important Problems 
+## Important Problems
 
-- [ ] Alternative Sorting 
+- [ ] Alternative Sorting
 
-## Notes 
-- Make sure to be familiar with the great algorithms before you start to solve problems
-this will help you to get more of the problems rather than using them the learn the algorithms
+## Notes
+
+- Make sure to be familiar with the great algorithms before you start to solve problems this will help you to get more
+  of the problems rather than using them the learn the algorithms
 
 - Make sure to be familiar with Graph and Graph Theory before going to Lee Algorithm and shortest path problems
-  
-  
+
 ## Learning to-do list
+
 - [ ] Bit Manipulation
-    - [ ] Signed number representations 
+    - [ ] Signed number representations
     - [ ] Hamming Weight, Hamming distance.
     - [ ] Bitwise operations.
 
+## Resume & Interview Soft Skills
 
-## Resume & Interview Soft Skills 
-> I may need to work on this section if I faced challenges in the future!   
+> I may need to work on this section if I faced challenges in the future!
 
-## Resources, Links & References 
+## Resources, Links & References
 
 - [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
 
@@ -210,7 +209,6 @@ this will help you to get more of the problems rather than using them the learn 
 - [Codility](https://codility.com/)
 - [Cracking the coding interview](http://www.crackingthecodinginterview.com/)
 - [Hacker Earth !!](https://www.hackerearth.com/)
-
 
 Finally, there is a popular saying among Navy Seals!
 
