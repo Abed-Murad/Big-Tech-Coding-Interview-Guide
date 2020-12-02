@@ -105,7 +105,8 @@
     - [ ] Priority Queues
 - [X] Tree
 
-- [ ] Graph
+- [ ] Graph (Maybe do some reads about Neural Networks while at it!)
+    - [ ]  Directed acyclic graphs (DAGs) -Shortest Path Problems Related-
 
 - [X] Binary Tree
 
@@ -167,10 +168,6 @@
 - [ ] Discrete Mathematics
 - [ ] Gauss' Formula 
 
-## Resources 
-- [ ] [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
-
-
 ## Important Problems 
 
 - [ ] Alternative Sorting 
@@ -192,7 +189,17 @@ this will help you to get more of the problems rather than using them the learn 
 ## Resume & Interview Soft Skills 
 > I may need to work on this section if I faced challenges in the future!   
 
-## Links & References 
+## Resources, Links & References 
+
+- [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
+
+- [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
+
+- **Keeping up with the FAANGians!**
+
+    - [Amazon Online Assessment Questions List (Up To Date)](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+    - [Google Online Assessment Questions List (Up To Date)](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+    - [Microsoft Online Assessment Questions (Up To Date)](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions)
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 
