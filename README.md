@@ -147,9 +147,11 @@
 
 - [X] Postorder Tree Traversals
 
-- [ ] Shortest Path Algorithms
+- [ ] Shortest/Longest Distance/Path Algorithms
     
     - [ ] A* Algorithm(Advance?)
+    
+    - [ ] Bellman–Ford algorithm
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n. 
 
