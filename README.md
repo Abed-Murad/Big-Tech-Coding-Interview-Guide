@@ -33,9 +33,9 @@
 
     - [X] Lee algorithm for The Shortest path in a Maze (30 Nov)
 
-    - [ ] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) (01 Dec)
+    - [X] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) (01 Dec)
 
-    - [ ] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
+    - [X] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
 
     - [ ] Floyd’s Cycle Detection Algorithm (03 Dec)
 
