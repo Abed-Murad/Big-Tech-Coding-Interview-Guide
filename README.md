@@ -37,11 +37,11 @@
 
     - [X] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
 
-    - [ ] Floyd’s Cycle Detection Algorithm (03 Dec)
+    - [X] Floyd’s Cycle Detection Algorithm (03 Dec)
 
-    - [ ] The Longest Increasing Subsequence (04 Dec)
+    - [X] The Longest Increasing Subsequence (04 Dec)
 
-    - [ ] Heap Sort (05 Dec)
+    - [X] Heap Sort (05 Dec)
 
     - [ ] Topological Sorting in a DAG (06 Dec)
 
@@ -172,6 +172,7 @@
 ## Important Problems
 
 - [ ] Alternative Sorting
+- [ ] The Longest common subsequence problem
 
 ## Notes
 
