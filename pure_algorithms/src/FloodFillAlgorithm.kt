@@ -9,6 +9,7 @@ fun isSave(M: Array<CharArray>, x: Int, y: Int, target: Char): Boolean {
     return x >= 0 && x < M.size && y >= 0 && y < M[0].size && M[x][y] == target
 }
 
+// This is a DFS, while there is a BFS, this one is better because it does not need an auxiliary array for visited nodes
 fun floodfill(M: Array<CharArray>, x: Int, y: Int, replacement: Char) {
     val target = M[x][y]
     M[x][y] = replacement
