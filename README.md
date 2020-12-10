@@ -49,17 +49,15 @@
 
     - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
 
-    - [ ] kadane's algorithm for Maximum Sum SubArray (09 Dec)
+    - [X] kadane's algorithm for Maximum Sum SubArray (09 Dec)
 
     - [X] Flood fill Algorithm (10 Dec)
 
-    - [ ] Kadane’s algorithm (11 Dec)
+    - [ ] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
 
-    - [ ] Fisher-Yates algorithm For Generating Random Permutation (12 Dec)
+    - [ ] Knuth–Morris–Pratt algorithm (12 Dec)
 
-    - [ ] Knuth–Morris–Pratt algorithm (13 Dec)
-
-    - [ ] Edmonds-Karp for max flow/min cut problems (14 Dec)
+    - [ ] Edmonds-Karp for max flow/min cut problems (13 Dec)
 
 
 2. Leetcode Problems
