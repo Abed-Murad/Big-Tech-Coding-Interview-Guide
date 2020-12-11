@@ -8,10 +8,10 @@ fun kadane(A: IntArray): Int {
     var maxCurrent = 0
 
     // traverse the given array
-    for (i in 0..A.lastIndex) {
+    for (i in A) {
         // update maximum sum of sub-array "ending" at index i (by adding
         // current element to maximum sum ending at previous index)
-        maxCurrent += A[i]
+        maxCurrent += i
 
         // maximum sum is should be more than the current element
         maxCurrent = Integer.max(maxCurrent, i)
@@ -23,6 +23,6 @@ fun kadane(A: IntArray): Int {
 }
 
 fun main(args: Array<String>) {
-    val A = intArrayOf(-8, -3, -6, -2, -5, -4)
+    val A = intArrayOf(-2,1,-3,4,-1,2,1,-5,4)
     println("The sum of contiguous subarray with the largest sum is " + kadane(A))
 }

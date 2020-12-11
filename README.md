@@ -53,7 +53,7 @@
 
     - [X] Flood fill Algorithm (10 Dec)
 
-    - [ ] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
+    - [X] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
 
     - [ ] Knuth–Morris–Pratt algorithm (12 Dec)
 
