@@ -43,7 +43,7 @@
 
     - [X] Heap Sort (05 Dec)
 
-    - [ ] Topological Sorting in a DAG (06 Dec)
+    - [X] ~~Topological Sorting in a DAG (06 Dec)~~ * Additional Graph Knowledge is a prerequisite (ironically!)
 
     - [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
 
@@ -58,6 +58,11 @@
     - [ ] Knuth–Morris–Pratt algorithm (12 Dec)
 
     - [ ] Edmonds-Karp for max flow/min cut problems (13 Dec)
+
+
+2.
+    - [ ] Graph (Maybe do some reads about Neural Networks while at it!)
+        - [ ]  Directed acyclic graphs (DAGs) -Shortest Path Problems Related-
 
 
 2. Leetcode Problems
@@ -101,8 +106,6 @@
     - [ ] Priority Queues
 - [X] Tree
 
-- [ ] Graph (Maybe do some reads about Neural Networks while at it!)
-    - [ ]  Directed acyclic graphs (DAGs) -Shortest Path Problems Related-
 
 - [X] Binary Tree
 
