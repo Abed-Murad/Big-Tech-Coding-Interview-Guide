@@ -2,26 +2,42 @@
 class DisjointSet {
     private val parent = HashMap<Int, Int>()
 
+    // stores the depth of trees
+    private val rank = HashMap<Int, Int>()
+
     // perform MakeSet operation
-    fun makeSet(universe: IntArray) {
+     fun makeSet(universe: IntArray) {
         // create n disjoint sets (one for each item)
-        for (i in universe) parent[i] = i
+        for (i in universe) {
+            parent[i] = i
+            rank[i] = 0
+        }
     }
 
     // Find the root of the set in which element k belongs
-    fun find(k: Int): Int {
-        // if k is root
-        return if (parent[k] == k) k else find(parent[k]!!)
-        // recur for parent until we find root
+     fun find(k: Int): Int {
+        // if k is not root
+        if (parent[k] != k) // path compression
+            parent[k] = find(parent[k]!!)
+        return parent[k]!!
     }
 
     // Perform Union of two subsets
-    fun union(a: Int, b: Int) {
+     fun union(a: Int, b: Int) {
         // find root of the sets in which elements
         // x and y belongs
         val x = find(a)
         val y = find(b)
-        parent[x] = y
+
+        // if x and y are present in same set
+        if (x == y) return
+
+        // Always attach a smaller depth tree under the
+        // root of the deeper tree.
+        if (rank[x]!! > rank[y]!!) parent[y] = x else if (rank[x]!! < rank[y]!!) parent[x] = y else {
+            parent[x] = y
+            rank[y] = rank[y]!! + 1
+        }
     }
 
 }
