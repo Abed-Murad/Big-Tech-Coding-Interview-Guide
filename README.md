@@ -45,7 +45,7 @@
 
     - [X] ~~Topological Sorting in a DAG (06 Dec)~~ * Additional Graph Knowledge is a prerequisite (ironically!)
 
-    - [ ] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
+    - [X] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
 
     - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
 
