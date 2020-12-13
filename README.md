@@ -29,44 +29,11 @@
 
 ## My Priority Queue
 
-1. **"An Algorithm A day keeps the O(2^n) away"**
 
-    - [X] Lee algorithm for The Shortest path in a Maze (30 Nov)
-
-    - [X] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) (01 Dec)
-
-    - [X] Floyd-Warshall Algorithm for The Shortest Paths (02 Dec)
-
-    - [X] Floyd’s Cycle Detection Algorithm (03 Dec)
-
-    - [X] The Longest Increasing Subsequence (04 Dec)
-
-    - [X] Heap Sort (05 Dec)
-
-    - [X] ~~Topological Sorting in a DAG (06 Dec)~~
-        * Additional Graph Knowledge is a prerequisite (ironically!)
-
-    - [X] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
-
-    - [X] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
-
-    - [X] kadane's algorithm for Maximum Sum SubArray (09 Dec)
-
-    - [X] Flood fill Algorithm (10 Dec)
-
-    - [X] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
-
-    - [ ] Knuth–Morris–Pratt (KMP) algorithm (12 Dec)
-
-    - [X] ~~Edmonds-Karp algorithm for max flow/min cut problems~~ (13 Dec)
-        * Additional Graph Knowledge is a prerequisite
-        * Could be an advance topic! (Not needed in stage_00)
-
-
-2.
-    - [ ] Graph (Maybe do some reads about Neural Networks while at it!)
+1. - [ ] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
         - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
         - [ ] Finding the Minimum Spanning Tree (MST).
+        - [ ] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
 
 
 2. Leetcode Problems
@@ -158,7 +125,36 @@
 
     - [ ] Bellman–Ford algorithm
 
-- [ ] Topological sorting
+- [X] Lee algorithm for The Shortest path in a Maze 
+
+- [X] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) 
+
+- [X] Floyd-Warshall Algorithm for The Shortest Paths.
+
+- [X] Floyd’s Cycle Detection Algorithm.
+
+- [X] The Longest Increasing Subsequence.
+
+- [X] Heap Sort.
+
+- [X] ~~Topological Sorting in a DAG.~~
+    * Additional Graph Knowledge is a prerequisite (ironically!)
+
+- [X] Union-Find Algorithm for Disjoint-Set Data Structure.
+
+- [X] Kruskal’s Algorithm for finding Minimum Spanning Tree.
+
+- [X] kadane's algorithm for Maximum Sum SubArray.
+
+- [X] Flood fill Algorithm.
+
+- [X] Fisher-Yates algorithm For Generating Random Permutation.
+
+- [X] Knuth–Morris–Pratt (KMP) algorithm.
+
+- [X] ~~Edmonds-Karp algorithm for max flow/min cut problems.~~
+    * Additional Graph Knowledge is a prerequisite
+    * Could be an advance topic! (Not needed in stage_00)
 
 - [X] **Sieve of Eratosthenes algorithm** for finding all prime numbers up to any given number n.
 
