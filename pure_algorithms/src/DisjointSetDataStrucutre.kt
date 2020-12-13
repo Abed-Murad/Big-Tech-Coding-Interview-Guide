@@ -6,7 +6,7 @@ class DisjointSet {
     private val rank = HashMap<Int, Int>()
 
     // perform MakeSet operation
-     fun makeSet(universe: IntArray) {
+    fun makeSet(universe: IntArray) {
         // create n disjoint sets (one for each item)
         for (i in universe) {
             parent[i] = i
@@ -15,7 +15,7 @@ class DisjointSet {
     }
 
     // Find the root of the set in which element k belongs
-     fun find(k: Int): Int {
+    fun find(k: Int): Int {
         // if k is not root
         if (parent[k] != k) // path compression
             parent[k] = find(parent[k]!!)
@@ -23,7 +23,7 @@ class DisjointSet {
     }
 
     // Perform Union of two subsets
-     fun union(a: Int, b: Int) {
+    fun union(a: Int, b: Int) {
         // find root of the sets in which elements
         // x and y belongs
         val x = find(a)
@@ -64,3 +64,8 @@ fun main(args: Array<String>) {
     ds.union(1, 3) // 1, 2, 3, 4 are in same set
     printSets(universe, ds)
 }
+
+
+// Notes
+//  1. The Union-Find Algorithm is used in the Disjoint-Set Data Structure.
+//  2. Disjoint Set: A group of set where no item can be in more than one set.

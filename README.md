@@ -62,7 +62,8 @@
 
 2.
     - [ ] Graph (Maybe do some reads about Neural Networks while at it!)
-        - [ ]  Directed acyclic graphs (DAGs) -Shortest Path Problems Related-
+        - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
+        - [ ] Finding the Minimum Spanning Tree (MST). 
 
 
 2. Leetcode Problems
@@ -123,7 +124,7 @@
     - [ ] Trie Implementation, Insert, Search and Delete
     - [ ] Memory efficient Trie Implementation using Map
         - [ ] Insert, Search and Delete
-    
+
 - [X] Disjoint-Set Data Structure
 
 ## Core CS Algorithms
@@ -208,7 +209,7 @@
     - [Microsoft Online Assessment Questions (Up To Date)](https://leetcode.com/discuss/interview-question/398023/Microsoft-Online-Assessment-Questions)
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
-
+- [Techie Delight: My Favorite site for Algorithms & Data Structure](https://www.techiedelight.com)
 - [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
 - [HackerRank](https://www.hackerrank.com)
