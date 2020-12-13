@@ -43,7 +43,8 @@
 
     - [X] Heap Sort (05 Dec)
 
-    - [X] ~~Topological Sorting in a DAG (06 Dec)~~ * Additional Graph Knowledge is a prerequisite (ironically!)
+    - [X] ~~Topological Sorting in a DAG (06 Dec)~~ 
+        * Additional Graph Knowledge is a prerequisite (ironically!)
 
     - [X] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
 
@@ -55,7 +56,9 @@
 
     - [X] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
 
-    - [ ] Knuth–Morris–Pratt algorithm (12 Dec)
+    - [X] ~~Knuth–Morris–Pratt algorithm (12 Dec)~~ 
+        * Additional Graph Knowledge is a prerequisite 
+        * Could be an advance topic! (Not needed in stage_00)
 
     - [ ] Edmonds-Karp algorithm for max flow/min cut problems (13 Dec)
 
