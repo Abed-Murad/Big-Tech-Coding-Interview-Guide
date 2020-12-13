@@ -36,13 +36,16 @@
         - [ ] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
 
 
-2. Leetcode Problems
-    - [ ] Leetcode Cards
-        - [X] Top Interview Questions - Easy Collection 100%
-        - [ ] Top Interview Questions -Medium Collection 0%
-        - [ ] Top Interview Questions - Hard Collection 0%
-        - [ ] Coding Interview Strategy
-        - [ ] Rock the Behavioral Interview
+- [ ] Top Interview Questions - Medium Collection 0%
+
+
+## Leetcode 
+
+### Leetcode Cards
+- [X] Top Interview Questions - Easy Collection 100%
+- [ ] Top Interview Questions - Hard Collection 0%
+- [ ] Coding Interview Strategy
+- [ ] Rock the Behavioral Interview
 
 ## Core CS Concepts
 
