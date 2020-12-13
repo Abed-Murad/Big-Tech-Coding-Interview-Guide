@@ -43,7 +43,7 @@
 
     - [X] Heap Sort (05 Dec)
 
-    - [X] ~~Topological Sorting in a DAG (06 Dec)~~ 
+    - [X] ~~Topological Sorting in a DAG (06 Dec)~~
         * Additional Graph Knowledge is a prerequisite (ironically!)
 
     - [X] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
@@ -56,17 +56,17 @@
 
     - [X] Fisher-Yates algorithm For Generating Random Permutation (11 Dec)
 
-    - [X] ~~Knuth–Morris–Pratt algorithm (12 Dec)~~ 
-        * Additional Graph Knowledge is a prerequisite 
-        * Could be an advance topic! (Not needed in stage_00)
+    - [ ] Knuth–Morris–Pratt (KMP) algorithm (12 Dec)
 
-    - [ ] Edmonds-Karp algorithm for max flow/min cut problems (13 Dec)
+    - [X] ~~Edmonds-Karp algorithm for max flow/min cut problems~~ (13 Dec)
+        * Additional Graph Knowledge is a prerequisite
+        * Could be an advance topic! (Not needed in stage_00)
 
 
 2.
     - [ ] Graph (Maybe do some reads about Neural Networks while at it!)
         - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
-        - [ ] Finding the Minimum Spanning Tree (MST). 
+        - [ ] Finding the Minimum Spanning Tree (MST).
 
 
 2. Leetcode Problems
@@ -180,6 +180,10 @@
 
 - [ ] Alternative Sorting
 - [ ] The Longest common subsequence problem
+- [ ] String Searching: Related Algorithms
+    - Knuth-Morris-Pratt Algorithm
+    - Rabin-Krap Algorithm 
+    - Boyer-Moore Algorithm
 
 ## Notes
 
