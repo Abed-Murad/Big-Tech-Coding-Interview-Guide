@@ -29,8 +29,8 @@
 
 ## My Priority Queue
 
-
-1. - [ ] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
+1.
+    - [ ] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
         - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
         - [ ] Finding the Minimum Spanning Tree (MST).
         - [ ] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
@@ -38,10 +38,10 @@
 
 - [ ] Top Interview Questions - Medium Collection 0%
 
-
-## Leetcode 
+## Leetcode
 
 ### Leetcode Cards
+
 - [X] Top Interview Questions - Easy Collection 100%
 - [ ] Top Interview Questions - Hard Collection 0%
 - [ ] Coding Interview Strategy
@@ -128,9 +128,9 @@
 
     - [ ] Bellman–Ford algorithm
 
-- [X] Lee algorithm for The Shortest path in a Maze 
+- [X] Lee algorithm for The Shortest path in a Maze
 
-- [X] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight) 
+- [X] Dijkstra’s Algorithm for The Shortest Paths (Only positive edges weight)
 
 - [X] Floyd-Warshall Algorithm for The Shortest Paths.
 
@@ -181,7 +181,7 @@
 - [ ] The Longest common subsequence problem
 - [ ] String Searching: Related Algorithms
     - Knuth-Morris-Pratt Algorithm
-    - Rabin-Krap Algorithm 
+    - Rabin-Krap Algorithm
     - Boyer-Moore Algorithm
 
 ## Notes
@@ -216,6 +216,7 @@
 
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 - [Techie Delight: My Favorite site for Algorithms & Data Structure](https://www.techiedelight.com)
+- [hired in tech course](https://www.hiredintech.com/)
 - [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
 - [HackerRank](https://www.hackerrank.com)
