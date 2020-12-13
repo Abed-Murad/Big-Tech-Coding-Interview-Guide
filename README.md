@@ -47,7 +47,7 @@
 
     - [X] Union-Find Algorithm for Disjoint-Set Data Structure (07 Dec)
 
-    - [ ] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
+    - [X] Kruskal’s Algorithm for finding Minimum Spanning Tree (08 Dec)
 
     - [X] kadane's algorithm for Maximum Sum SubArray (09 Dec)
 
@@ -57,7 +57,7 @@
 
     - [ ] Knuth–Morris–Pratt algorithm (12 Dec)
 
-    - [ ] Edmonds-Karp for max flow/min cut problems (13 Dec)
+    - [ ] Edmonds-Karp algorithm for max flow/min cut problems (13 Dec)
 
 
 2.
