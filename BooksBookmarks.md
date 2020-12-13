@@ -1,8 +1,8 @@
-#Books bookmark
+# Books bookmark
 
 
 
-##Reading Queue 
+## Reading Queue 
 
 
 - raywenderlich - Mastering Coroutines in Kotlin and Android- Chapter 1: What Is Asynchronous Programming?
@@ -17,7 +17,7 @@
 - raywenderlich - Living by the Code -> **Forward & Prologue**
 
 
-##Completed Chapters
+## Completed Chapters
 
 - **raywenderlich - Android Test-Driven Development by Tutorials**
     - Chapter  1: Introduction
