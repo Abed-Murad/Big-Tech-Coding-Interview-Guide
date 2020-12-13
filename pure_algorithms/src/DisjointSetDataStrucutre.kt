@@ -1,5 +1,5 @@
 // class to represent a disjoint set
-class DisjointSet {
+class DisjointSetClassic {
     private val parent = HashMap<Int, Int>()
 
     // stores the depth of trees
@@ -42,7 +42,7 @@ class DisjointSet {
 
 }
 
-fun printSets(universe: IntArray, ds: DisjointSet) {
+fun printSets(universe: IntArray, ds: DisjointSetClassic) {
     for (i in universe) print(ds.find(i).toString() + " ")
     println()
 }
@@ -52,7 +52,7 @@ fun main(args: Array<String>) {
     val universe = intArrayOf(1, 2, 3, 4, 5)
 
     // initialize DisjointSet class
-    val ds = DisjointSet()
+    val ds = DisjointSetClassic()
 
     // create singleton set for each element of universe
     ds.makeSet(universe)
