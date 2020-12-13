@@ -123,6 +123,8 @@
     - [ ] Trie Implementation, Insert, Search and Delete
     - [ ] Memory efficient Trie Implementation using Map
         - [ ] Insert, Search and Delete
+    
+- [X] Disjoint-Set Data Structure
 
 ## Core CS Algorithms
 
