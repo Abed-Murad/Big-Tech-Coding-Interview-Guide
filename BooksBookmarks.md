@@ -3,9 +3,10 @@
 ## Reading Queue
 
 - raywenderlich - Mastering Coroutines in Kotlin and Android- Chapter 1: What Is Asynchronous Programming?
+
 <br/>
 <br/>
-<br/>
+  
 - raywenderlich - Reactive Programming with Kotlin -> **Chapter 4: Observables & Subjects in Practice**
 - raywenderlich - Advanced Android App Architecture -> **Chapter 5: Dependency Injection**
 - raywenderlich - Data Structures & Algorithms in Kotlin -> **Chapter 2: Complexity**
