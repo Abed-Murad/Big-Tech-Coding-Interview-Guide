@@ -217,6 +217,7 @@
 - [Top Algorithms/Data Structures/Concepts every computer science student should know](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 - [Techie Delight: My Favorite site for Algorithms & Data Structure](https://www.techiedelight.com)
 - [hired in tech course](https://www.hiredintech.com/)
+- [interview cake](https://www.interviewcake.com/)
 - [Leetcode](https://leetcode.com/abdallahMurad/)
 - [CodeSignal](https://app.codesignal.com/)
 - [HackerRank](https://www.hackerrank.com)
