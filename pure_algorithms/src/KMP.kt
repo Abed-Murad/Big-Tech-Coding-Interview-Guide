@@ -17,7 +17,8 @@ fun KMP(X: String?, Y: String?) {
     val next = IntArray(Y.length + 1)
     for (i in 1 until Y.length) {
         var j = next[i + 1]
-        while (j > 0 && chars[j] != chars[i]) j = next[j]
+        while (j > 0 && chars[j] != chars[i])
+            j = next[j]
         if (j > 0 || chars[j] == chars[i]) next[i + 1] = j + 1
     }
     var i = 0
@@ -25,10 +26,7 @@ fun KMP(X: String?, Y: String?) {
     while (i < X.length) {
         if (j < Y.length && X[i] == Y[j]) {
             if (++j == Y.length) {
-                println(
-                    "Pattern occurs with shift " +
-                            (i - j + 1)
-                )
+                println("Pattern occurs with shift " + (i - j + 1))
             }
         } else if (j > 0) {
             j = next[j]
