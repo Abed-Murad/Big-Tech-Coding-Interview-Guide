@@ -5,14 +5,6 @@ package graph
 // 2. Directed Graphs: n edge may only permit traversal in one direction
 // 3. Undirected graphs: a directed graph where all of the edges are bi-directional.
 
-data class Vertex<T>(val index: Int, val data: T)
-
-data class Edge<T>(
-    val source: Vertex<T>,
-    val destination: Vertex<T>,
-    val weight: Double? = null
-)
-
 interface Graph<T> {
 
     fun createVertex(data: T): Vertex<T>
