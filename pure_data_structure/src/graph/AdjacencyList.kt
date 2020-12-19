@@ -1,6 +1,5 @@
 package graph
 
-import kotlin.math.sin
 
 class AdjacencyList<T> : Graph<T> {
     private val adjacencies: HashMap<Vertex<T>, ArrayList<Edge<T>>> = HashMap()
