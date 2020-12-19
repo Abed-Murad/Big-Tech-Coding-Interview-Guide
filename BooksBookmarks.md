@@ -44,7 +44,8 @@
     - Chapter 3: Testing MVC
     - Chapter 4: Android Architecture Components
 - **raywenderlich - Data Structures & Algorithms in Kotlin**
-    - Chapter 1: Kotlin & Kotlin Standard Library
+    - Chapter  1: Kotlin & Kotlin Standard Library
+    - Chapter 19: Graphs
 - **raywenderlich - Mastering Coroutines in Kotlin and Android**
 - **raywenderlich - Mastering Git**
 - **raywenderlich - Saving Data on Android**
