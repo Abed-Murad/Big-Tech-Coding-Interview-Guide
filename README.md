@@ -29,13 +29,6 @@
 
 ## My Priority Queue
 
-1.
-    - [ ] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
-        - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
-        - [ ] Finding the Minimum Spanning Tree (MST).
-        - [ ] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
-
-
 - [ ] Top Interview Questions - Medium Collection 0%
 
 ## Leetcode
@@ -99,6 +92,11 @@
         - [ ] Insert, Search and Delete
 
 - [X] Disjoint-Set Data Structure
+
+- [X] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
+  - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
+  - [ ] Finding the Minimum Spanning Tree (MST).
+  - [X] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
 
 ## Core CS Algorithms
 
