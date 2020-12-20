@@ -1,40 +1,30 @@
 package array
 
-fun threeSum(sums: IntArray): List<List<Int>> {
-    val set = hashSetOf<ArrayList<Int>>()
-    for (i in sums.indices) {
-        for (j in i..sums.lastIndex) {
-            for (k in j..sums.lastIndex) {
-                if (i != j && i != k && j != k) {
-                    if (sums[i] + sums[j] + sums[k] == 0) {
-                        set.add(arrayListOf(sums[i], sums[j], sums[k]))
-                    }
-                }
+import java.util.Arrays
+
+import java.util.LinkedList
+
+
+fun threeSum(num: IntArray): List<List<Int>> {
+    Arrays.sort(num)
+    val res: MutableList<List<Int>> = LinkedList()
+    for (i in 0 until num.size - 2) {
+        if (i == 0 || i > 0 && num[i] != num[i - 1]) {
+            var low = i + 1
+            var high = num.size - 1
+            val sum = 0 - num[i]
+            while (low < high) {
+                if (num[low] + num[high] == sum) {
+                    res.add(listOf(num[i], num[low], num[high]))
+                    while (low < high && num[low] == num[low + 1]) low++
+                    while (low < high && num[high] == num[high - 1]) high--
+                    low++
+                    high--
+                } else if (num[low] + num[high] < sum) low++ else high--
             }
         }
     }
-//    println(set)
-    set.map {
-        it.sort()
-    }
-//    println(set)
-    val list = set.toMutableList()
-
-    for (i in list.indices) {
-        for (j in i..list.lastIndex) {
-            if (list[i].containsAll(list[j]) && list[j].containsAll(list[i]) && list[j].size > 0 && list[i].size > 0 && i != j) {
-                list[i].clear()
-            }
-        }
-    }
-//    println(list)
-    val new = list.filter {
-        it.size > 0
-    }
-    println(new)
-
-    return new
-
+    return res
 }
 
 fun main() {
