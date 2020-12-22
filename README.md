@@ -94,9 +94,9 @@
 - [X] Disjoint-Set Data Structure
 
 - [X] Graph (Maybe do some reads about Neural Networks while at it!). (14 Dec)
-  - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
-  - [ ] Finding the Minimum Spanning Tree (MST).
-  - [X] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
+    - [ ] Directed acyclic graphs (DAGs) -Shortest Path Problems Related-.
+    - [ ] Finding the Minimum Spanning Tree (MST).
+    - [X] Data Structures & Algorithms in Kotlin -> **Chapter 19: Graphs**
 
 ## Core CS Algorithms
 
@@ -188,6 +188,9 @@
   of the problems rather than using them the learn the algorithms
 
 - Make sure to be familiar with Graph and Graph Theory before going to Lee Algorithm and shortest path problems
+
+- Use [the Algorithm Design Canvas](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
+  ![](https://www.hiredintech.com/the-algorithm-design-canvas.png)
 
 ## Learning to-do list
 
