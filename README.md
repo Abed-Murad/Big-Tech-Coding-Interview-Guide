@@ -168,6 +168,14 @@
 
 > Suggested sections: statistics, linear algebra, and calculus
 
+- Statistics
+    - [ ] Median: is a value separating the higher half from the lower half of a data sample.
+  
+     ![](https://www.gstatic.com/education/formulas2/-1/en/median_formula.svg)
+
+    - [ ] Mode
+    - [ ] Mean
+
 ### Core Math Concepts
 
 - [ ] Discrete Mathematics
@@ -202,6 +210,10 @@
 ## Resume & Interview Soft Skills
 
 > I may need to work on this section if I faced challenges in the future!
+
+## Competitive Programming
+
+- [ ] [Touch Typing](https://www.keybr.com/)
 
 ## Resources, Links & References
 
