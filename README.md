@@ -32,12 +32,11 @@
 * [Notes](#notes)
 * [Learning to-do list](#learning-to-do-list)
 * [Competitive Programming](#competitive-programming)
-* [Resources, Links & References](#resources,-links-&-references)
+* [Resources Links References](#Resources-Links-References)
 
 ## My Priority Queue
 
 - [ ] [[3/200] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
-
 
 ## Leetcode Cards
 
