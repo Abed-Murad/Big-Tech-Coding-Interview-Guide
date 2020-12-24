@@ -29,13 +29,14 @@
 
 ## My Priority Queue
 
-- [ ] Top Interview Questions - Medium Collection 0%
+- [ ] [[3/200] Coding Questions](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
 
 ## Leetcode
 
 ### Leetcode Cards
 
 - [X] Top Interview Questions - Easy Collection 100%
+- [ ] Top Interview Questions - Medium Collection 0%
 - [ ] Top Interview Questions - Hard Collection 0%
 - [ ] Coding Interview Strategy
 - [ ] Rock the Behavioral Interview
@@ -170,8 +171,8 @@
 
 - Statistics
     - [ ] Median: is a value separating the higher half from the lower half of a data sample.
-  
-     ![](https://www.gstatic.com/education/formulas2/-1/en/median_formula.svg)
+
+  ![](https://www.gstatic.com/education/formulas2/-1/en/median_formula.svg)
 
     - [ ] Mode
     - [ ] Mean
