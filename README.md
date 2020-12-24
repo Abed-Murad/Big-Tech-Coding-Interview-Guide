@@ -36,6 +36,8 @@
 
 ## My Priority Queue
 
+- [ ] Window Sliding Technique
+
 - [ ] [[3/200] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
 
 ## Leetcode Cards
@@ -167,7 +169,6 @@
 
 ## Core Problem Solving Techniques
 
-- [ ] Window Sliding Technique
 - [X] Two Pointers Technique
 
 ## Math
@@ -205,6 +206,8 @@
 
 - Use [the Algorithm Design Canvas](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
   ![](https://www.hiredintech.com/the-algorithm-design-canvas.png)
+
+- Sliding Window is mostly used with [SubSequence, SubArray, SubString]
 
 ## Learning to-do list
 
