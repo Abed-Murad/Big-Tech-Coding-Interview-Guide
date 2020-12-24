@@ -21,19 +21,25 @@
 
 ## Table of Contents
 
+* [My Priority Queue](#my-priority-queue)
+* [Leetcode Cards](#leetcode-cards)
 * [Core CS Concepts](#core-cs-concepts)
 * [Core Data Structures](#core-data-structures)
 * [Core CS Algorithms](#core-cs-algorithms)
-* [Important Problems](#core-cs-algorithms)
-* [References](#core-cs-algorithms)
+* [Core Problem Solving Techniques](#core-problem-solving-techniques)
+* [Math](#math)
+* [Important Problems](#important-problems)
+* [Notes](#notes)
+* [Learning to-do list](#learning-to-do-list)
+* [Competitive Programming](#competitive-programming)
+* [Resources, Links & References](#resources,-links-&-references)
 
 ## My Priority Queue
 
-- [ ] [[3/200] Coding Questions](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
+- [ ] [[3/200] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
 
-## Leetcode
 
-### Leetcode Cards
+## Leetcode Cards
 
 - [X] Top Interview Questions - Easy Collection 100%
 - [ ] Top Interview Questions - Medium Collection 0%
