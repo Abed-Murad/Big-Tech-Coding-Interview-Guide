@@ -221,7 +221,7 @@
 
 - [ ] [Touch Typing](https://www.keybr.com/)
 
-## Resources, Links & References
+## Resources Links References
 
 - [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
 
