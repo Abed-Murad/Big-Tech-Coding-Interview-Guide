@@ -1,8 +1,7 @@
 package array
 
-import kotlin.math.max
-import kotlin.math.min
 
+// Updated solution based on the work of our lord and savior @stefanPochmann from leetcode.
 fun maxArea(height: IntArray): Int {
     var maxArea = 0
     var i = 0
