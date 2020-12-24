@@ -4,15 +4,19 @@ import kotlin.math.max
 import kotlin.math.min
 
 fun maxArea(height: IntArray): Int {
-    var maxArea = -1
+    var maxArea = 0
+    var i = 0
+    var j = height.size - 1
 
-    for (i in height.indices) {
-        for (j in height.lastIndex downTo 0) {
-            val min = Math.min(height[i], height[j])
-            val area = min * (j - i)
-            if (area > maxArea && j != i) {
-                maxArea = area
-            }
+    while (i < j) {
+        val width = j - i
+        val minLength = Math.min(height[i], height[j])
+        maxArea = Math.max(maxArea, width * minLength)
+
+        if (height[i] > height[j]) {
+            j--
+        } else {
+            i++
         }
     }
     return maxArea
