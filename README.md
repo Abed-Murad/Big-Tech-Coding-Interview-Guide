@@ -63,6 +63,7 @@
 - [X] Dynamic Programming
     - finds the optimal solution to SubProblems and then makes an informed choice to combine the results of those
       SubProblems to find the most optimum solution.
+    - [dynamy programming patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 - [X] Greedy Algorithms
     - finds the best local choice aim at producing the best global results
 - [ ] Hashing
