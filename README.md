@@ -34,6 +34,16 @@
 * [Competitive Programming](#competitive-programming)
 * [Resources Links References](#Resources-Links-References)
 
+## Dates
+
+- [ ] **2021-01-07: Round 01 - Stage 02**  <------ NEXT
+- [ ] **2021-01-15 - MCL**
+- [ ] **2021-02-00 - MCL**
+- [ ] **2021-02-07: Round 02 - Stage 01**
+- [ ] **2021-03-07: Round 02 - Stage 02**
+
+
+
 ## My Priority Queue
 
 - [ ] Window Sliding Technique
@@ -186,7 +196,6 @@
 
 - [ ] Sets Basic operations.
 
-
 ### Core Math Concepts
 
 - [ ] Discrete Mathematics
@@ -225,6 +234,13 @@
 > I may need to work on this section if I faced challenges in the future!
 
 ## Competitive Programming
+
+### Contests
+
+- [ ] Google Hash Code
+- [ ] Leetcode Weekly Contests
+
+### Others
 
 - [ ] [Touch Typing](https://www.keybr.com/)
 
