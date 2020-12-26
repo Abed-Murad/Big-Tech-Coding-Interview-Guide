@@ -183,6 +183,9 @@
     - [ ] Mode
     - [ ] Mean
 
+- [ ] Sets Basic operations.
+
+
 ### Core Math Concepts
 
 - [ ] Discrete Mathematics
@@ -207,7 +210,7 @@
 - Use [the Algorithm Design Canvas](https://www.hiredintech.com/classrooms/algorithm-design/lesson/78)
   ![](https://www.hiredintech.com/the-algorithm-design-canvas.png)
 
-- Sliding Window is mostly used with [SubSequence, SubArray, SubString]
+- Sliding Window is mostly used with longest [SubSequence, SubArray, SubString]
 
 ## Learning to-do list
 
