@@ -1,24 +1,24 @@
 package array
 
+// More Optimization are available in leetcode solution tap,
+// Ignored for now because it make it more complicated.
+// Maybe in the future!
 fun lengthOfLongestSubstring(s: String): Int {
     val n = s.length
+    val set = HashSet<Char>()
     var ans = 0
-    for (i in 0 until n) {
-        for (j in i + 1..n) {
-            if (allUnique(s, i, j)) ans = Math.max(ans, j - i)
+    var i = 0
+    var j = 0
+
+    while (i < n && j < n) {
+        if (!set.contains(s[j])) {
+            set.add(s[j++])
+            ans = Math.max(ans, j - i)
+        } else {
+            set.remove(s[i++])
         }
     }
     return ans
-}
-
-fun allUnique(s: String, start: Int, end: Int): Boolean {
-    val set = HashSet<Char>()
-    for (i in start until end) {
-        var ch = s[i]
-        if (set.contains(ch)) return false
-        set.add(ch)
-    }
-    return true
 }
 
 fun main() {
@@ -26,4 +26,6 @@ fun main() {
     println(lengthOfLongestSubstring("bbbbb"))
     println(lengthOfLongestSubstring("pwwkew"))
     println(lengthOfLongestSubstring(""))
+
+
 }
