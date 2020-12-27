@@ -26,7 +26,7 @@ fun reverseVowels(s: String): String {
             endVowel = end
         }
 
-        if (startVowel != -1 && endVowel != 0) {
+        if (startVowel != -1 && endVowel != -1) {
             val tmp = s[startVowel]
             s[startVowel] = s[endVowel]
             s[endVowel] = tmp
