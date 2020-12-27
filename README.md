@@ -246,6 +246,8 @@
 
 ## Resources Links References
 
+
+- [System design](https://github.com/donnemartin/system-design-primer)
 - [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
 
 - [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
