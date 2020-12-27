@@ -36,7 +36,7 @@
 
 ## Dates
 
-- [ ] **2021-01-07: Round 01 - Stage 02**  <------ NEXT
+- [ ] **2021-01-07: Round 01 - Stage 02**
 - [ ] **2021-01-15 - MCL**
 - [ ] **2021-02-00 - MCL**
 - [ ] **2021-02-07: Round 02 - Stage 01**
@@ -222,6 +222,10 @@
 
 - Sliding Window is mostly used with longest [SubSequence, SubArray, SubString]
 
+- When dealing with arrays ,there are a handful of strategies we find useful:
+  1. Using pointers 
+  2. Sorting the array 
+  3. Using some external data source( like a HashMap)
 ## Learning to-do list
 
 - [ ] Bit Manipulation
