@@ -46,9 +46,14 @@
 
 ## My Priority Queue
 
-- [ ] Window Sliding Technique
 
-- [ ] [[3/200] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
+- [ ] Heap
+  - [ ] Min Heap and Max Heap
+  - [ ] Graph Implementation using STL
+  - [ ] Graph Implementation without using STL
+
+
+- [ ] [[3.1%] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
 
 ## Leetcode Cards
 
@@ -100,10 +105,6 @@
     - [X] Search given key in BST
     - [X] Deletion from BST
 
-- [ ] Heap
-    - [ ] Min Heap and Max Heap
-    - [ ] Graph Implementation using STL
-    - [ ] Graph Implementation without using STL
 
 - [ ] Tire
     - [ ] Trie Implementation, Insert, Search and Delete
@@ -181,6 +182,8 @@
 ## Core Problem Solving Techniques
 
 - [X] Two Pointers Technique
+
+- [X] Window Sliding Technique
 
 ## Math
 
