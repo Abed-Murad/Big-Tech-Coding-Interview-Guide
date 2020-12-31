@@ -86,13 +86,14 @@
 - [X] Stack
 
 - [X] Queue
-    - [ ] Priority Queues
+
 - [X] Tree
 
 - [X] Heap
-  - [X] Min Heap and Max Heap
-  - [ ] Graph Implementation using STL
-  - [ ] Graph Implementation without using STL
+    - [X] Min Heap and Max Heap
+    - [ ] Priority Queues 
+    - [ ] Graph Implementation using STL
+    - [ ] Graph Implementation without using STL
 
 - [X] Binary Tree
 
@@ -255,7 +256,7 @@
 
 - [System design](https://github.com/donnemartin/system-design-primer)
 - [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
-
+- [MIT - Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Maths for Programmers Tutorial - Full Course on Sets and Logic](https://www.youtube.com/watch?v=2SpuBqvNjHI)
 
 - **Keeping up with the FAANGians!**
