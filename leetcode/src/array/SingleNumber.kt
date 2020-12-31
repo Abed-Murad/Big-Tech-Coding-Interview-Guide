@@ -7,21 +7,18 @@ fun main() {
 }
 
 // Time = O(N), Space = O(N)
+// Could be improved to Space = O(1) using Bit manipulation.
 fun singleNumber(nums: IntArray): Int {
-    val hashMap = HashMap<Int, Int>()
+    val map = HashMap<Int, Int>()
     for (num in nums) {
-        if (hashMap.containsKey(num)) {
-            val value = hashMap[num]!!
-            hashMap[num] = value + 1
-        } else {
-            hashMap[num] = 1
-        }
+        map[num] = map.getOrDefault(num, 0) + 1
     }
-    for (mutableEntry in hashMap) {
+
+    for (mutableEntry in map) {
         if (mutableEntry.value < 2) return mutableEntry.key
     }
-    return -1
+
+    return 0
 }
 
 
-//Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
