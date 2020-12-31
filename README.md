@@ -45,12 +45,6 @@
 
 ## My Priority Queue
 
-- [ ] Heap
-    - [ ] Min Heap and Max Heap
-    - [ ] Graph Implementation using STL
-    - [ ] Graph Implementation without using STL
-
-
 - [ ] [[3.1%] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
 
 ## Leetcode Cards
@@ -95,6 +89,10 @@
     - [ ] Priority Queues
 - [X] Tree
 
+- [X] Heap
+  - [X] Min Heap and Max Heap
+  - [ ] Graph Implementation using STL
+  - [ ] Graph Implementation without using STL
 
 - [X] Binary Tree
 
