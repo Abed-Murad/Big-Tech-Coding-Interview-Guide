@@ -31,6 +31,7 @@
 * [Important Problems](#important-problems)
 * [Notes](#notes)
 * [Learning to-do list](#learning-to-do-list)
+* [Resume & Interview Soft Skills](#resume--interview-soft-skills)
 * [Competitive Programming](#competitive-programming)
 * [Resources Links References](#Resources-Links-References)
 
@@ -42,15 +43,12 @@
 - [ ] **2021-02-07: Round 02 - Stage 01**
 - [ ] **2021-03-07: Round 02 - Stage 02**
 
-
-
 ## My Priority Queue
 
-
 - [ ] Heap
-  - [ ] Min Heap and Max Heap
-  - [ ] Graph Implementation using STL
-  - [ ] Graph Implementation without using STL
+    - [ ] Min Heap and Max Heap
+    - [ ] Graph Implementation using STL
+    - [ ] Graph Implementation without using STL
 
 
 - [ ] [[3.1%] Coding Questions Sheet](https://docs.google.com/spreadsheets/d/10HEfKJ2GYOzAtTdNTkc7fsRfoGNFqngrnzH_poQ7yZM/edit?usp=sharing)
@@ -226,9 +224,10 @@
 - Sliding Window is mostly used with longest [SubSequence, SubArray, SubString]
 
 - When dealing with arrays ,there are a handful of strategies we find useful:
-  1. Using pointers 
-  2. Sorting the array 
-  3. Using some external data source( like a HashMap)
+    1. Using pointers
+    2. Sorting the array
+    3. Using some external data source( like a HashMap)
+
 ## Learning to-do list
 
 - [ ] Bit Manipulation
@@ -239,6 +238,9 @@
 ## Resume & Interview Soft Skills
 
 > I may need to work on this section if I faced challenges in the future!
+
+- [ ] Modification on Friend Library ScreenShots
+- [ ] Update the Height of the ViewPort on [my website](https://abed-murad.tech)
 
 ## Competitive Programming
 
@@ -252,7 +254,6 @@
 - [ ] [Touch Typing](https://www.keybr.com/)
 
 ## Resources Links References
-
 
 - [System design](https://github.com/donnemartin/system-design-primer)
 - [Programiz's DS & Algorithms tutorial](https://www.programiz.com/dsa)
