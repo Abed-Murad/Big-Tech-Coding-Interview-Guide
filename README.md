@@ -227,6 +227,9 @@
     2. Sorting the array
     3. Using some external data source( like a HashMap)
 
+- When dealing with problems that require to compute the digits of a strings or an Int, don't use Int.toString()
+  .toCharArray(), use the reminder algorithm instead(Check Leetcode:202.HappyNumber for more info).
+
 ## Learning to-do list
 
 - [ ] Bit Manipulation
@@ -252,6 +255,7 @@
 ### Others
 
 - [ ] [Touch Typing](https://www.keybr.com/)
+- [ ] [10 Fast Fingers](https://10fastfingers.com)
 
 ## Resources Links References
 
