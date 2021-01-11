@@ -36,12 +36,12 @@
 * [Resources Links References](#Resources-Links-References)
 
 ## Dates
-
-- [ ] **2021-01-07: Round 01 - Stage 02**
-- [ ] **2021-01-15 - MCL**
-- [ ] **2021-02-00 - MCL**
-- [ ] **2021-02-07: Round 02 - Stage 01**
-- [ ] **2021-03-07: Round 02 - Stage 02**
+- [X] 2020-10-07: Round 0 - Stage 1
+- [X] 2020-10-07: Round 0 - Stage 2
+- [X] 2021-01-14: Round 1 - Stage 1
+- [X] 2021-02-14: Round 1 - Stage 2
+- [ ] 2021-01-15: MCL
+- [ ] 2021-02-00: MCL
 
 ## My Priority Queue
 
