@@ -262,7 +262,7 @@
 
 ## Logical Reasoning Tests
 
- ![Alt Text](https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
+ ![Alt Text](https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
 
 
 
