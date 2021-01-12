@@ -34,6 +34,7 @@
 * [Resume & Interview Soft Skills](#resume--interview-soft-skills)
 * [Competitive Programming](#competitive-programming)
 * [Resources Links References](#Resources-Links-References)
+* [Logical Reasoning Tests](#Logical-Reasoning-Tests)
 
 ## Dates
 - [X] 2020-10-07: Round 0 - Stage 1
@@ -195,6 +196,7 @@
     - [ ] Mean
 
 - [ ] Sets Basic operations.
+- [ ] Memory management (1’s Complement & 2’s Complement).
 
 ### Core Math Concepts
 
@@ -256,6 +258,13 @@
 
 - [ ] [Touch Typing](https://www.keybr.com/)
 - [ ] [10 Fast Fingers](https://10fastfingers.com)
+
+
+## Logical Reasoning Tests
+
+ ![Alt Text](https://media.giphy.com/media/aZ3LDBs1ExsE8/giphy.gif)
+
+
 
 ## Resources Links References
 
