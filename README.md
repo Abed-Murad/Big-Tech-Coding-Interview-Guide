@@ -37,6 +37,7 @@
 * [Logical Reasoning Tests](#Logical-Reasoning-Tests)
 
 ## Dates
+
 - [X] 2020-10-07: Round 0 - Stage 1
 - [X] 2020-10-07: Round 0 - Stage 2
 - [X] 2021-01-14: Round 1 - Stage 1
@@ -247,6 +248,10 @@
 - [ ] Update the Height of the ViewPort on [my website](https://abed-murad.tech)
 - [ ] add 'get help' app to the list.
 
+## System design
+
+- [ ]  [Check the system design section](https://medium.com/coderbyte/what-to-expect-for-your-android-interview-9b632147d3b7)
+
 ## Competitive Programming
 
 ### Contests
@@ -259,12 +264,13 @@
 - [ ] [Touch Typing](https://www.keybr.com/)
 - [ ] [10 Fast Fingers](https://10fastfingers.com)
 
-
 ## Logical Reasoning Tests
 
- ![Alt Text](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
+![Alt Text](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
 
-
+- [A great res to start with](https://www.assessmentday.co.uk/)
+- [A great res to start with](https://www.jobtestprep.com/employers-technology-tests)
+- Search Keywords [Diagrammatic reasoning]
 
 ## Resources Links References
 
