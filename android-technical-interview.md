@@ -37,7 +37,11 @@
     - `onDestroy()`
 
 * **Tell us more about `Services`**
-    - A service can take two forms:
+    - There are three ways of using `Service`:
+        - Foreground: It must display a notification while operating in the background ex: music player.
+        - Background: the user have no idea what's going on in the background ex: compressing an image file.
+        - Bound: Here one or more components binds the `Service` using `bindService()`, it will be destroyed when the
+          bound components unbind the service.
         - Started `startService()` runs indefinitely, usually for a single operation ex: upload a file.
         - Bound `bindService()` Bounded to the App ex: a Client-server interface.
     - A service can be started both ways `onStartComand()` & `onBind()`.
@@ -58,15 +62,18 @@
     - This file contains components description of the app ex: activities, services, permissions...
 
 * **What is an `Intent`**
-    - An Object that holds the content of a massage.
+    - A messaging object used to request an action from another app component.
+        - Explicit `Intent` to communicate with a particular component of the same application.
+        - Implicit `Intent` to communicate between various applications in the device.
     - action: requested operation to perform ex: `ACTION_VIEW`, `ACTION_PICK`...
     - data: data to perform with, described as `URI`.
     - category: the intent belongs to which intent group.
     - type: MIME type to handle with.
     - extras: other customized application data.
+    - `PendingIntent` used to ask someone to perform any Intent operation on behalf of you at the future.
 
 * **What is an IntentFilter**
-    - Match activities in the application against an intent
+    - used to specify the type of components or actions that can be received by the application.
     - It can be defined in `AndroidManifest.xml` or `Activity.onResume()` with a BroadcastReceiver.
 
 
@@ -124,6 +131,24 @@
 * **What is `View` & `ViewGroup`?**
     - `View` is the superclass of all the UI components ex: `TextView`, `EditText`, `DatePicker`...
     - `View` is a Rectangular area which is going to contain some element inside it.
-    - `ViewGroup` is a parent for the other `Views` and 'ViewGroups' inside of it. 
-    ![ss](https://s3.ap-south-1.amazonaws.com/mindorks-server-uploads/android_user_interface_viewgroup_mindorks_image.png)
+    - `ViewGroup` is an invisible container that holds other `Views` and 'ViewGroups' inside it.
+
+* **Tell us about the different layouts in android.**
+    - `RelativeLayout` The elements arranged concerning each others.
+    - `LinearLayout` The elements arranged in a line, either `horizontal` or `vertical`.
+    - `FrameLayout` Used for complex designs where components are on top of each others
+    - `ConstraintLayout` All above, responsive UI that adapt automatically to different screen sizes.
+
+* **Tell us about what a RecyclerView.**
+    - A `ViewGroup` that populates a list of views based on the provided Collection fod data, with the help of '
+      ViewHolder' and draws it to the user on screen.
+    - It has three major components
+        - `Adapter` subtype of `RecyclerView.Adapter` that binds the data to the corresponding views.
+            - `onCreateViewHolder(parent, viewType)`
+            - `onBindViewHolder(holder, position)`
+            - `getItemCount()`
+            - `getViewType(postion)`
+        - `ViewHolder` subtype of `RecyclerView.ViewHolder` Helper class that help to draw the UI for individual items
+          that we want to draw on screen
+        - `LayoutManger` Helps with the way we want the items to be displayed (Linearly or in a Grid). 
     
