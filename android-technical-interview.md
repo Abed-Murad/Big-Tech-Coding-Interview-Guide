@@ -112,4 +112,18 @@
     - `launchMode="singleInstance"`
         - Creates a new task for the activity.
     - `launchMode="standard"`
-        - Creates a new Instance if not on top, sends intent data if already on top of the stack.  
+        - Creates a new Instance if not on top, sends intent data if already on top of the stack.
+
+
+* **Tell us about Fragment Communication**
+    - Fragments should not communicate directly between each others.
+    - Communications can be done in two ways:
+        - With the help of `ViewModel`: a shared `ViewModel` between all the fragments
+        - With the help of `Interface`
+
+* **What is `View` & `ViewGroup`?**
+    - `View` is the superclass of all the UI components ex: `TextView`, `EditText`, `DatePicker`...
+    - `View` is a Rectangular area which is going to contain some element inside it.
+    - `ViewGroup` is a parent for the other `Views` and 'ViewGroups' inside of it. 
+    ![ss](https://s3.ap-south-1.amazonaws.com/mindorks-server-uploads/android_user_interface_viewgroup_mindorks_image.png)
+    
