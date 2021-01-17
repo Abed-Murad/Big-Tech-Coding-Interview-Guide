@@ -45,6 +45,15 @@
         - Started `startService()` runs indefinitely, usually for a single operation ex: upload a file.
         - Bound `bindService()` Bounded to the App ex: a Client-server interface.
     - A service can be started both ways `onStartComand()` & `onBind()`.
+    - `Service` always runs on the Main Thread.
+
+* **What is the difference between `IntentService` & `Service`**
+    - `Service` works and interact with the UI easily unlike `IntentService`.
+    - `IntentService` is a supType of `Service`
+    - `IntentService` runs on a separate Worker thread unlike `Service` which works on the main thread.
+    - Use `onStartService()` to start `Service`, use `Context.startService()` to start `IntentService`.
+    - 'IntentService' stops automatically after once it's done, unlike `Service` which runs indefinitely if not stopped
+      using `stopService()` or `stopSelf()`
 
 * **Tell us more about `Contents Providers`**
     - Data can be retrieved using `ContentResolver`.
@@ -150,5 +159,20 @@
             - `getViewType(postion)`
         - `ViewHolder` subtype of `RecyclerView.ViewHolder` Helper class that help to draw the UI for individual items
           that we want to draw on screen
-        - `LayoutManger` Helps with the way we want the items to be displayed (Linearly or in a Grid). 
-    
+        - `LayoutManger` Helps with the way we want the items to be displayed (Linearly or in a Grid).
+
+### Android Jetpack
+
+* **What is Android Jetpack?**
+    - A collection of libraries that are individually adoptable and build to work together while taking advantage of the
+      Kotlin language features that improves productivity.
+
+* **List the Architecture Components in Android Jetpack.**
+    - DataBinding: A way to declaratively bind UI elements in our layout to data sources in our app.
+    - Lifecycles: Manges `Activity` & `Fragment` lifecycles of our app
+    - `LiveData` Notify views of any database changes.
+    - `Navigation` Handle everything needed for in-app navigation.
+    - `Paging` Gradually load information on demand from your data source.
+    - `Room` Fluent SQLite database access. 
+    - `ViewModel` Manage UI-related data in a lifecycle-conscious way.
+    - `WorkManger` Manage every background jobs in Android with the circumstances we choose.
