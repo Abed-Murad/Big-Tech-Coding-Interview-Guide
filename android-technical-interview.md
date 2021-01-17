@@ -173,6 +173,29 @@
     - `LiveData` Notify views of any database changes.
     - `Navigation` Handle everything needed for in-app navigation.
     - `Paging` Gradually load information on demand from your data source.
-    - `Room` Fluent SQLite database access. 
+    - `Room` Fluent SQLite database access.
     - `ViewModel` Manage UI-related data in a lifecycle-conscious way.
     - `WorkManger` Manage every background jobs in Android with the circumstances we choose.
+
+* **What is `LiveData`?**
+
+    - `LiveData` is an observable data holder class, it's also lifecycle-aware, This awareness ensures `LiveData` only
+      update app component observers that are in an active lifecycle state.
+    - When using `LiveData` you don't need to worry about unsubscribing any observers.
+    - When using `LiveData` you don't need to worry about activity recreation due to screen rotation because only the
+      updated data will be sent.
+    - Emit data using `setValue(data)` & `postValue(data)`.
+
+* **What is `WorkManger`?**
+
+    - A library in Jetpack that make it easy to schedule deferrable, asynchronous tasks that are expected to run even if
+      the app exits, or the device restarts.
+    - Use `doWork()` to set what works you want done when the deferrable is activated.
+
+* **What is `DataBinding`?**
+    - `DataBinding` allows you to bind UI components to in your layouts to data sources in your app using a declarative
+      format rather than programmatically.
+    - The expression Language `@{}` allows you to write expressions that handle events dispatched by the views.
+    - `DataBinding` files roots are a tag of `layout` followed by a `data` tag then the `view` root element.
+    - `data` tag e.g `<varible name ="user" type"com.am.model.User">`
+    
