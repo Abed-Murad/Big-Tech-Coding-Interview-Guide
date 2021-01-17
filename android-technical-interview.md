@@ -30,7 +30,7 @@
 
 * **Tell us about the Activity livecycle**
     - `onCreate()`
-    - `onStart()`
+    - `onStart()` Called as long the device did not kill the activity
     - `onResume()` Activity is visible.
     - `onPause()` Another Activity is visible on top of this one.
     - `onStop()` Activity in the background.
@@ -44,7 +44,7 @@
 
 * **Tell us more about `Contents Providers`**
     - Data can be retrieved using `ContentResolver`.
-      - returns a `Cursor` from after a query from `ContentResolver`
+        - returns a `Cursor` from after a query from `ContentResolver`
     - It stores data using SQLite or file storage.
     - Each Content Provider exposes a public URI ex: android.provider.Contacts.Phones.CONTENT_URI.
 
@@ -68,4 +68,48 @@
 * **What is an IntentFilter**
     - Match activities in the application against an intent
     - It can be defined in `AndroidManifest.xml` or `Activity.onResume()` with a BroadcastReceiver.
-  
+
+
+* **What is `Application` class?**
+    - The `Application` is the based class within an Android.
+    - It contains all other components ex: `activities`, `services`...
+    - Instantiated before any other class in the app.
+
+
+* **What is Context and how is it used?**
+    - `Context` is the current state of the application
+    - It's used to get information about the `Activity` & `Application`
+    - It's used to access resources, databases, shared preferences...
+    - Both 'Activity' & 'Application' extend the 'Context' class
+
+* **What is `Fragment` ?**
+    - `Fragment` is a sub-activity, a way to dynamically change the content of the screen without starting new Activity.
+    - Used when some UI components are used across various activities or multiple views can be displayed side by a side
+      ex: ViewPager.
+    - It provides modularity & Adaptability
+    - `Fragments` life-cycle is closely related to their host
+        - `onAttatch()` Attached to the activity, pass the host `Activity` to the `Fragment`
+        - `onCreate()` 'Fragment' instance initialization.
+        - `onCreateView()` Draw 'Fragment' layout on screen
+        - `onActivityCreated()` Activity completed its `onCreate()`
+        - `onStart()` fragment is visible.
+        - `onResume()` user can interact with the fragment
+        - `onPause()` user can't interact with the fragment
+        - `onStop()` fragment no longer visible
+        - `onDestroyView()` view and related resources created in `onCreateView()` are removed and destroyed.
+        - `onDestroy()` final clean up.
+        - `onDetach()` fragment is detached from its host activity.
+
+* **What are `LaunchMode` tag?**
+    - `launchMode="singleTop"`
+        - Creates & Adds Activity to the top of the stack if not already in the stack.
+        - Sends the intent data to the Activity if it already created and on the top of the stack.
+        - Creates new Activity if it's already in the stack but not in the top, sends the intent data to the new
+          instance.
+    - `launchMode="singleTask"`
+        - destroy all activities above of the activity in the stack if it was already created, sends new Intent data to
+          it.
+    - `launchMode="singleInstance"`
+        - Creates a new task for the activity.
+    - `launchMode="standard"`
+        - Creates a new Instance if not on top, sends intent data if already on top of the stack.  
