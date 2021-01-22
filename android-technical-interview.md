@@ -198,4 +198,15 @@
     - The expression Language `@{}` allows you to write expressions that handle events dispatched by the views.
     - `DataBinding` files roots are a tag of `layout` followed by a `data` tag then the `view` root element.
     - `data` tag e.g `<varible name ="user" type"com.am.model.User">`
-    
+
+* **What is Telecom framework?**
+    - The Android Telecom framework manages audio and video calls on Android, including SIM-based calls as well as VOIP
+      calls provided by implementors of the `ConnectionService` API.
+    - Telecom acts as a switchboard, routing calls which are provided by `ConnectionService` implementations to the
+      calling UI provided by `InCallService` implementations.
+
+    - Telecom provides two major components `ConnectionService` & `InCallService`.
+    - `ConnectionService` is responsible for connecting carrier calls.
+    - `InCallService` is responsible for providing a user interface to control and interact with calls manged by Telecom
+      ex: the Phone app bundled with the device.
+    -     
