@@ -1,3 +1,3 @@
-# Leetcode Guide 
+# Big Tech Coding Interview Guide 
 
-![Alt Text](https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
