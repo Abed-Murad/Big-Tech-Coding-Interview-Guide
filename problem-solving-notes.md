@@ -1,7 +1,7 @@
 # Problem Solving Notes
 
 * **How to extract each digit form an Int?**
-
+    - Works Only with Non-Negative Numbers
 ``` kotlin
 fun printDigits(number: Int) {
     var remains = number  // 1234
