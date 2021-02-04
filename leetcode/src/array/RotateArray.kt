@@ -17,10 +17,14 @@ fun reverse(nums: IntArray, start: Int, end: Int) {
 
     var end = end
     while (start < end) {
-        val temp = nums[start]
-        nums[start] = nums[end]
-        nums[end] = temp
+        swap(nums, start, end)
         start++
         end--
     }
+}
+
+private fun swap(nums: IntArray, start: Int, end: Int) {
+    val temp = nums[start]
+    nums[start] = nums[end]
+    nums[end] = temp
 }
