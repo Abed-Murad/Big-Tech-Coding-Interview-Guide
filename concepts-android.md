@@ -209,4 +209,11 @@
     - `ConnectionService` is responsible for connecting carrier calls.
     - `InCallService` is responsible for providing a user interface to control and interact with calls manged by Telecom
       ex: the Phone app bundled with the device.
-    -     
+
+* **What are the main methods used in Android Measurement?**
+    - `getLocationOnScreen()` Returns the absolute position of the view on the screen.
+    - `getLocationInWindow()` Returns the coordinates of the view.
+    - `getX(), getY()` Returns the coordinate of the view as a float relative to the parent ViewGroup.
+    - `getGlobalVisibleRect()` Advance!
+    - `getLocalVisibleRect` Advance!
+

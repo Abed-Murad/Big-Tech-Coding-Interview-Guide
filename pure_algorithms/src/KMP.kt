@@ -1,7 +1,7 @@
 // Function to implement KMP algorithm
 fun KMP(X: String?, Y: String?) {
     // Base Case 1: Y is null or empty
-    if (Y == null || Y.isEmpty) {
+    if (Y == null || Y.isEmpty()) {
         println("Pattern occurs with shift 0")
         return
     }
