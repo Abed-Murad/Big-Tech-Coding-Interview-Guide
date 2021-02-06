@@ -217,3 +217,5 @@
     - `getGlobalVisibleRect()` Advance!
     - `getLocalVisibleRect` Advance!
 
+* In MVVM It's a good practice for every layer in the app to work with its own model! 
+* `LiveData` is preferred when implementing communication between View and ViewModel, because `LiveData has internal life-cycle handling!
