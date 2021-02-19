@@ -129,6 +129,8 @@
     - `Backpressure` is when the `Flow` produces events faster than the collector can consume them, this is
       a `Reactive stream` concept.
 
+* **What is `ConflatedBroadcastChannel` in `Coroutines`?**
+    - TODO()
 
 * **What is `StateFlow`?**
     - `StateFlow` is like a way to use Kotlin `Flow` to manage and represent a state in an application.
@@ -136,5 +138,10 @@
       if `(x==y)` then do nothing but if `(x!=y)` then only emit the new value i.e. `y`
     - A regular `Flow` is cold but `StateFlow` is hot, which mean that the regular `Flow` does not have the concept of
       the last value, and it only becomes active when it gets collected, whereas `StateFlow`  has the concept of the
-      last value, and it becomes active as soon as we create it. 
-    -  
+      last value, and it becomes active as soon as we create it.
+
+
+* **What dose `out` and `in` means in `Kotlin`?**
+    - `List<out T>` is like `List<? extends T>` in Java.
+    - `List<in T>` is like `List<? super T>` in Java.
+    - ex: ` val value : List<Any> = listOf(1,2,3)` since List signature is `List<out T>` in kotlin.
